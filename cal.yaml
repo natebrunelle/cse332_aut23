@@ -50,22 +50,22 @@ lectures:
     - Graphs 1 (Intro to Graphs)
     - Graphs 2 (Traversals)
     - Graphs 2 (Shortest path)
+    - Graphs 4 (MST & Topological Sort)
     - Parallelism 1 (Fork-Join)
     - Parallelism 2 (Parallel Prefix)
     - Parallel Analysis & Concurrency
     - Synchronization (Race Conditions & Deadlock)
-    - Graphs 4 (MST & Topological Sort)
     - P NP NP-Complete
     - Review
     - Finale
 
 labs:
-    - S01 Intros, P1, Tries
+    - S01 Intros, Java Generics
     - S02 Algorithm Analysis
     - S03 Recurrences
-    - S04 AVL Trees & B-Trees
+    - S04 AVL Trees
     - S05 Hashing & Review
-    - S06 Sortings
+    - S06 Sorting
     - S07 Graphs
     - S08 Parallel Programs 
     - S09 Concurrency & Two-Pass parallel
@@ -114,149 +114,93 @@ assignments:
         weight: 1
         files: 'something.pdf'        
             
-    P1 Checkpoint 0:
+    EX1 Generics:
         group: programming
-        due: 2024-01-08 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
-    P1 Checkpoint 1:
+    EX2 Running Time:
         group: programming
-        due: 2024-01-12 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
        
-    Project 1:
+    EX3 Recurrences:
         group: programming
-        due: 2024-01-19 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    P2 Checkpoint 1:
+    EX4 Heaps:
         group: programming
-        due: 2024-02-02 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
-    P2 Checkpoint 2:
+    EX5 AVL:
         group: programming
-        due: 2024-02-09 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    Project 2:
+    EX6 Hashing:
         group: programming
-        due: 2024-02-16 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    P3 Checkpoint 1:
+    EX7 Sorting:
         group: programming
-        due: 2024-02-26 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    Project 3:
+    EX8 Graphs 1:
         group: programming
-        due: 2024-03-06 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
-    EX01:
+    EX9 Graphs 2:
         group: programming
-        due: 2024-01-17 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    EX02:
+    EX10 Graphs 3:
         group: programming
-        due: 2024-01-24 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    EX03: 
+    EX11 Parallelism: 
         group: programming
-        due: 2024-01-31 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    EX04:
+    EX12 Concurrency:
         group: programming
-        due: 2024-01-31 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    EX05:
+    EX13 P and NP:
         group: programming
-        due: 2024-02-14 23:59:00
+        due: 2024-08-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
-        
-    EX06:
-        group: written
-        due: 2024-02-14 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.pdf'
-        
-    EX07:
-        group: written
-        due: 2024-02-23 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.pdf'
-        
-    EX08:
-        group: written
-        due: 2024-03-01 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.pdf'
-    
-    EX09:
-        group: written
-        due: 2024-03-06 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.pdf'
-        
-    EX10:
-        group: written
-        due: 2024-03-07 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.pdf'
-        
-    EX11:
-        group: written
-        due: 2024-03-07 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.pdf'
-
-    EX12:
-        group: written
-        due: 2024-03-08 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.pdf'
-
-    EX13:
-        group: written
-        due: 2024-03-08 23:59:00
-        writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
-        weight: 1
-        files: 'something.pdf'
