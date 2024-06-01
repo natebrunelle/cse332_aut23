@@ -36,9 +36,9 @@ lectures:
     - Intro; ADTs; Stacks & Queues
     - Algorithm Analysis 1
     - Algorithm Analysis 2
+    - Recurrences
     - Priority Queues 1 (ADT)
     - Priority Queues 2 (Binary Heap)
-    - Algorithm Analysis 3
     - Dictionaries (ADT & Binary Search Trees)
     - Dictionaries (AVL Trees 1)
     - Dictionaries (AVL Trees 2)
@@ -61,8 +61,7 @@ lectures:
 
 labs:
     - S01 Intros, Java Generics
-    - S02 Algorithm Analysis
-    - S03 Recurrences
+    - S02 Algorithm Analysis & Recurrences
     - S04 AVL Trees
     - S05 Hashing & Review
     - S06 Sorting
