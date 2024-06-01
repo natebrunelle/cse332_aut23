@@ -65,7 +65,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-08-16 23:59"
+  ,"due":"2024-07-29 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -74,7 +74,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-08-16 23:59"
+  ,"due":"2024-07-29 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -83,16 +83,16 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-08-16 23:59"
+  ,"due":"2024-08-05 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX11 Parallelism":
+,"EX11 ForkJoin":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-08-16 23:59"
+  ,"due":"2024-08-05 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -101,7 +101,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-08-16 23:59"
+  ,"due":"2024-08-12 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"

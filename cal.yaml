@@ -184,14 +184,14 @@ assignments:
 
     EX11 ForkJoin: 
         group: programming
-        due: 2024-08-05 23:59:00
+        due: 2024-08-07 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
     EX12 Concurrency:
         group: programming
-        due: 2024-08-12 23:59:00
+        due: 2024-08-14 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
