@@ -163,35 +163,35 @@ assignments:
     
     EX8 Graphs 1:
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-07-29 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
     EX9 Graphs 2:
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-07-29 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
     EX10 Graphs 3:
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-08-05 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    EX11 Parallelism: 
+    EX11 ForkJoin: 
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-08-05 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
     EX12 Concurrency:
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-08-12 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
