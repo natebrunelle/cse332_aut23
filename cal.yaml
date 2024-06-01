@@ -1,9 +1,8 @@
 Special Dates:
-  Courses begin: 2024-01-03
-  Courses end: 2024-03-08
-  MLK Day: 2024-01-15
-  President's Day: 2024-02-19
-  Midterm Exam: 2024-02-05
+  Courses begin: 2024-06-17
+  Courses end: 2024-08-16
+  Juneteenth Day: 2024-06-19
+  Independance Day: 2024-07-04
 
 meta:
   timezone: America/New_York
@@ -43,8 +42,6 @@ lectures:
     - Dictionaries (ADT & Binary Search Trees)
     - Dictionaries (AVL Trees 1)
     - Dictionaries (AVL Trees 2)
-    - Dictionaries (B-Trees)
-    - Dictionaries (B-Trees & Hashing)
     - Dictionaries (Hashing )
     - Dictionaries (Hashing 2)
     - Sorting 1
@@ -57,8 +54,7 @@ lectures:
     - Parallel Analysis & Concurrency
     - Synchronization (Race Conditions & Deadlock)
     - Graphs 4 (MST & Topological Sort)
-    - P NP NP-Complete 1
-    - P NP NP-Complete 2
+    - P NP NP-Complete
     - Finale
 
 labs:
