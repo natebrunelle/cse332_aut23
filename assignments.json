@@ -1,1 +1,118 @@
-{}
+{"EX1 Generics":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX2 Running Time":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX3 Recurrences":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX4 Heaps":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX5 AVL":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX6 Hashing":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX7 Sorting":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX8 Graphs 1":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX9 Graphs 2":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX10 Graphs 3":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX11 Parallelism":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX12 Concurrency":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX13 P and NP":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-16 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+}

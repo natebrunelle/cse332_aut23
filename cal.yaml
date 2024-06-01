@@ -116,21 +116,21 @@ assignments:
             
     EX1 Generics:
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-06-24 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
     EX2 Running Time:
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-07-01 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
        
     EX3 Recurrences:
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-07-01 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
