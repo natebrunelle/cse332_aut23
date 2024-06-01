@@ -60,14 +60,14 @@ lectures:
     - Finale
 
 labs:
-    - S01 Intros, Java Generics
-    - S02 Algorithm Analysis & Recurrences
-    - S04 AVL Trees
-    - S05 Hashing & Review
-    - S07 Graphs
-    - S08 Parallel Programs 
-    - S09 Concurrency & Two-Pass parallel
-    - S10 P/NP & Final Review
+    - S1 Intros, Java Generics
+    - S2 Algorithm Analysis & Recurrences
+    - S3 AVL Trees
+    - S4 Hashing & Review
+    - S5 Graphs
+    - S6 Parallel Programs 
+    - S7 Concurrency & Two-Pass parallel
+    - S8 P/NP & Final Review
 
 reading:
     Intro; ADTs; Stacks & Queues:
