@@ -136,14 +136,14 @@ assignments:
     
     EX4 Heaps:
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-07-08 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
     EX5 AVL:
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-07-15 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
