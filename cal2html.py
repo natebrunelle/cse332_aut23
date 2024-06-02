@@ -65,7 +65,7 @@ def raw2cal(data, links=None):
         for k,v in data['Special Dates'].items():
             if (v['start'] > d or v['end'] < d) if type(v) is dict else d not in v if type(v) is list else v != d:
                 continue # does not apply
-            if 'recess' in k.lower() or 'reading' in k.lower() or 'break' in k.lower() or 'day' in k.lower() or d.weekday() not in ent['days']:
+            if 'recess' in k.lower() or 'reading' in k.lower() or 'break' in k.lower() or 'day' in k.lower():
                 hasClass = False # no classes
             if 'exam' in k.lower() or 'test' in k.lower() or 'midterm' in k.lower():
                 isexam = True
@@ -75,20 +75,24 @@ def raw2cal(data, links=None):
                     "kind":"special",
                     "day":d
                 })
+        all_days = []
+        for sec,ent in data['sections'].items():
+            all_days += ent['days'];
         if d >= beg and d <= end:
             
             # handle sections
             print(data['sections'])
             for sec, ent in data['sections'].items():
-                if d.weekday() not in ent['days']:
+                if d.weekday() not in all_days:
                     ans.append({
-                        'section':'none',
-                        'title':'nothing!',
-                        "kind":ent['type'],
+                        'section':'',
+                        'title':'',
+                        "kind":'no meeting',
                         "from":dt + timedelta(0,ent['start']),
                         "to":dt + timedelta(0,ent['start'] + 60*ent['duration']),
                         "where":ent['room']
                     })
+                if d.weekday() not in ent['days']:
                     continue
                 if not hasClass:
                     continue
