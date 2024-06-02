@@ -79,7 +79,9 @@ def raw2cal(data, links=None):
             
             # handle sections
             for sec, ent in data['sections'].items():
-                if d.weekday() not in ent['days']: continue
+                if d.weekday() not in ent['days']:
+                    print(d, "nothing!")
+                    continue
                 if not hasClass:
                     print(d, "no class")
                     continue
