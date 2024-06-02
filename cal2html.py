@@ -101,14 +101,16 @@ def raw2cal(data, links=None):
                     data['meta'].get('lecture exam') == (ent['type'] == 'lecture'),
                     ent.get('exams')
                 )):
+                    print(ent)
                     ans.append({
                         'section':sec,
-                        'title':'Midterm Exam',
+                        'title':"Final Exam" if d == data['meta']['final']['start'].date() else "Midterm Exam",
                         "kind":'exam',
                         "from":dt + timedelta(0,ent['start']),
                         "to":dt + timedelta(0,ent['start'] + 60*ent['duration']),
                         "where":ent['room']
                     })
+                    print(data['meta'])
                 elif ent['type']+'s' not in data or len(data[ent['type']+'s']) <= ent['sidx']:
                     ans.append({
                         'section':sec,
