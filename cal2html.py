@@ -40,7 +40,7 @@ def raw2cal(data, links=None):
     e = data['Special Dates']['Courses end']
     end = e
     while s.weekday() != 6: s -= timedelta(1)
-    e = max(e, data['meta']['final']['start'].date())
+    e = e if 'final' not in data['meta'] else max(e, data['meta']['final']['start'].date())
     
     for sec, ent in data['sections'].items():
         ent['days'] = [dow(dows) for dows in ent['days']]
