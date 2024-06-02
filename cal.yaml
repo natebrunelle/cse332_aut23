@@ -15,7 +15,7 @@ meta:
     room: NA
 
 sections:
-  Brunelle:
+  Lecture:
     type: lecture
     room: Gilmer 301
     days: [Monday, Wednesday, Friday]

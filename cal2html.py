@@ -78,8 +78,17 @@ def raw2cal(data, links=None):
         if d >= beg and d <= end:
             
             # handle sections
+            print(data['sections'])
             for sec, ent in data['sections'].items():
-                if d.weekday() not in ent['days']: continue
+                if d.weekday() not in ent['days']:
+                    ans.append({
+                        'section':sec,
+                        'title':'nothing!',
+                        "kind":ent['type'],
+                        "from":dt + timedelta(0,ent['start']),
+                        "to":dt + timedelta(0,ent['start'] + 60*ent['duration']),
+                        "where":ent['room']
+                    })
                 if not hasClass:
                     continue
                 if isexam and any((
@@ -210,7 +219,7 @@ def raw2cal(data, links=None):
 def cal2html(cal):
     """Uses divs only, with no week-level divs"""
     print('doing cal2html')
-    print(cal[1][1])
+    #print(cal[1][1])
     ans = ['<div id="schedule" class="calendar">']
     ldat = None
     for week in cal:
@@ -223,7 +232,7 @@ def cal2html(cal):
                 ans.append('<span class="date w{1}">{0}</span>'.format(day['date'].strftime('%d %b').strip('0'), day['date'].strftime('%w')))
                 ans.append('<div class="events">')
                 for e in day['events']:
-                    print(e)
+                    #print(e)
                     #if e.get('kind') == 'assignment' : continue
                     if e.get('kind') == 'oh': continue
                     if e.get('hide'): continue
