@@ -82,13 +82,14 @@ def raw2cal(data, links=None):
             for sec, ent in data['sections'].items():
                 if d.weekday() not in ent['days']:
                     ans.append({
-                        'section':sec,
+                        'section':'none',
                         'title':'nothing!',
                         "kind":ent['type'],
                         "from":dt + timedelta(0,ent['start']),
                         "to":dt + timedelta(0,ent['start'] + 60*ent['duration']),
                         "where":ent['room']
                     })
+                    continue
                 if not hasClass:
                     continue
                 if isexam and any((
