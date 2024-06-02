@@ -53,7 +53,7 @@ def raw2cal(data, links=None):
         hasClass = True
         
         # handle metadata
-        if d == data['meta']['final']['start'].date():
+        if 'final' in data['meta'] and d == data['meta']['final']['start'].date():
             final = data['meta']['final']
             ans.append({
                 "title":"Final Exam",
