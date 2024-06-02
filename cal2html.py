@@ -68,6 +68,8 @@ def raw2cal(data, links=None):
             if 'recess' in k.lower() or 'reading' in k.lower() or 'break' in k.lower() or 'day' in k.lower():
                 hasClass = False # no classes
             if 'exam' in k.lower() or 'test' in k.lower() or 'midterm' in k.lower():
+                print('exam')
+                print(d)
                 isexam = True
             else:
                 ans.append({
@@ -81,7 +83,6 @@ def raw2cal(data, links=None):
         if d >= beg and d <= end:
             
             # handle sections
-            print(data['sections'])
             for sec, ent in data['sections'].items():
                 if d.weekday() not in all_days:
                     ans.append({
