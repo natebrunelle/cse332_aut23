@@ -203,6 +203,10 @@ assignments:
         weight: 1
         files: 'something.java'
 
+    Resub1:
+        group: programming
+        due: 2024-07-22 23:59:00
+   
     CC1 Running Time:
         group: programming
         due: 2024-06-24 23:59:00

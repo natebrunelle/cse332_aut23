@@ -1,8 +1,8 @@
-{"Concept - Running Time":
+{"CC1 Running Time":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-06-20 23:59"
+  ,"due":"2024-06-24 23:59"
   ,"weight":1
   }
 ,"EX1 Generics":
@@ -13,6 +13,27 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
+  }
+,"CC2 Recurrences":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-06-27 23:59"
+  ,"weight":1
+  }
+,"CC5 Hashing":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-06-27 23:59"
+  ,"weight":1
+  }
+,"CC3 PQs":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-07-01 23:59"
+  ,"weight":1
   }
 ,"EX2 Running Time":
   {"portion":"30"
@@ -41,6 +62,13 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"CC4 AVL Trees":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-07-11 23:59"
+  ,"weight":1
+  }
 ,"EX5 AVL":
   {"portion":"30"
   ,"drop":2
@@ -49,6 +77,19 @@
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
+  }
+,"CC6 Sorting":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-07-17 23:59"
+  ,"weight":1
+  }
+,"Resub1":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-07-22 23:59"
   }
 ,"EX6 Hashing":
   {"portion":"30"
