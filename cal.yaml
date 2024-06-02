@@ -10,7 +10,7 @@ meta:
   lecture exam: true
   home: https://www.cs.virginia.edu/~njb2b/cs3100/s23/
   final:
-    start: 2024-06-16 08:30:00
+    start: 2024-08-16 08:30:00
     duration: 110
     room: NA
 
@@ -46,7 +46,7 @@ lectures:
     - Dictionaries (Hashing 2)
     - Sorting 1
     - Sorting 2
-    - Midterm
+    - Midterm Exam
     - Graphs 1 (Intro to Graphs)
     - Graphs 2 (Traversals)
     - Graphs 2 (Shortest path)
