@@ -79,13 +79,9 @@ def raw2cal(data, links=None):
             
             # handle sections
             for sec, ent in data['sections'].items():
-                if d.weekday() not in ent['days']:
-                    print(d, "nothing!")
-                    continue
+                if d.weekday() not in ent['days']: continue
                 if not hasClass:
-                    print(d, "no class")
                     continue
-
                 if isexam and any((
                     data['meta'].get('lecture exam') == (ent['type'] == 'lecture'),
                     ent.get('exams')
@@ -108,8 +104,6 @@ def raw2cal(data, links=None):
                         "where":ent['room']
                     })
                 else:
-                    print(d)
-                    print(ent['type'])
                     ans.append({
                         'section':sec,
                         'title':data[ent['type']+'s'][ent['sidx']] or '',
