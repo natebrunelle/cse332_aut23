@@ -61,7 +61,7 @@ lectures:
 
 labs:
     - S1 Intros, Java Generics
-    - S2 Algorithm Analysis & Recurrences
+    - S2 Recurrences
     - S3 AVL Trees
     - S4 Hashing & Review
     - S5 Graphs
@@ -203,7 +203,31 @@ assignments:
         weight: 1
         files: 'something.java'
 
-    Concept - Running Time:
+    CC1 Running Time:
         group: programming
-        due: 2024-06-20 23:59:00
+        due: 2024-06-24 23:59:00
+        weight: 1
+    CC2 Recurrences:
+        group: programming
+        due: 2024-06-27 23:59:00
+        weight: 1
+
+    CC3 PQs:
+        group: programming
+        due: 2024-07-01 23:59:00
+        weight: 1
+
+    CC4 AVL Trees:
+        group: programming
+        due: 2024-07-11 23:59:00
+        weight: 1
+    
+    CC5 Hashing:    
+        group: programming
+        due: 2024-06-27 23:59:00
+        weight: 1
+
+    CC6 Sorting:
+        group: programming
+        due: 2024-07-17 23:59:00
         weight: 1
