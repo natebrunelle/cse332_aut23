@@ -1,4 +1,4 @@
-{"EX1 Generics":
+{"EX0 Generics":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -7,7 +7,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX2 Running Time":
+,"EX1 Running Time":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -16,7 +16,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX3 Recurrences":
+,"EX2 Recurrences":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -25,7 +25,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX4 Heaps":
+,"EX3 Heaps":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -34,7 +34,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX5 AVL":
+,"EX4 AVL":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -43,7 +43,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX6 Hashing":
+,"EX5 Hashing":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -52,7 +52,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX7 Sorting":
+,"EX6 Sorting":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -67,7 +67,7 @@
   ,"group":"programming"
   ,"due":"2024-07-26 23:59"
   }
-,"EX8 Graphs 1":
+,"EX7 Graphs 1":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -76,7 +76,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX9 Graphs 2":
+,"EX8 Graphs 2":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -85,7 +85,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX10 Graphs 3":
+,"EX9 Graphs 3":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -94,7 +94,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX11 ForkJoin":
+,"EX10 ForkJoin":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -103,7 +103,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX12 Concurrency":
+,"EX11 Concurrency":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -112,7 +112,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX13 P and NP":
+,"EX12 P and NP":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"

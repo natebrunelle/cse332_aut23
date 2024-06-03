@@ -1,5 +1,5 @@
 ---
-title: Winter 2024 Schedule
+title: Summer 2024 Schedule
 ...
 
 

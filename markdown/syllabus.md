@@ -18,7 +18,7 @@ Both offerings of the course will share the same assignments, deadlines, TA offi
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Profiles](staff.html) |
 | Location | Allen Center (CSE) 434 | [See Calendar](oh.html) |
-| Office Hours | M 1:30-3:00, Thu 9:30-11:30 | [See Calendar](oh.html) |
+| Office Hours | TBD | [See Calendar](oh.html) |
 | Phone |  | (none) |
 | Email | <a href="mailto:brunelle@cs.washington.edu?subject=CSE332">brunelle@cs.washington.edu</a> | use Ed Discussion Board |
 
@@ -51,8 +51,8 @@ Although we believe nearly all students will benefit from attending all classes,
 
 All assignments will be posted and submitted either in class (for exams) or on Gradescope. All grading will be conducted on Gradescope. You will be asked to perform three kinds of evaluations:
 
-- **Exercises**: These are intended to help you to gain experience and familiarity with course concepts. These will sometimes be written assignments (in which case a typed up or neatly hand-written pdf submission is acceptable) or may be programming tasks.  
-- **Programming Projects**: These are larger-scale programming tasks and are intended to give you experience in applying the course concepts in a more open-ended programming context.
+- **Exercises**: These are intended to help you to gain experience and familiarity with course concepts by applying them to novel scenarios beyond those presented in lecture and section. These will sometimes be written assignments, but most will be programming tasks (perhaps paired with written activities).  
+- **Resubmissions**: Whereas some courses allow for a small number of assignments to be dropped, in this course all content is required by at least one course listing this one as a prerequisite. For this reason we feel the course should not provide a way for a student to "skip" the experience with a topic. In interest of providing flexibility, you will be able to resubmit 2 assignments - one from the assignments due before the midterm, one from after the midterm. The resubmitted assignment will be graded from scratch, with the new grade replacing the original.
 - **Exams**: These are timed and proctored in-class and close-resource exams.These are intended to evaluate the quality of your learning of the most important topics in the course, and to motivate you to study, review, and retroactively reflect upon all that you've learned. Lists of topics and links to past exams will be provided in advance of each exam.
 
 # Grading
@@ -61,9 +61,8 @@ We will consider the grade assigned by the following weighted average (of percen
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Exercises                   25%     There will be 13 total, your best 10 scores will count (we will drop the lowest from among excercises 9-12 and the next 2 lowest overall).
-Programming Projects        35%     There will be 3 total
-Exams                       40%     Midterm weighted 15%, Final weighted 25%
+Exercises                   65%     There will be 13 total, each counting for 5%
+Exams                       35%     There will be 2 total, a midterm and a (non-cumulative) final exam. Each counts for 17.5%
 
 This numerical calculation is to be considered a **guideline** on your score in the course. Final grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials.
 
@@ -77,28 +76,19 @@ If your grade is           Then your course GPA will be
 ≥85%                        ≥3.0
 ≥70%                        ≥2.0  
 
-## Extra Credit
-
-We will keep track of any extra features you implement for programming projects
-(the "Above and Beyond" parts). You won’t see these affecting your grades for individual projects, but
-they will be accumulated over all projects and used to bump up borderline grades at the end of the
-quarter. The bottom line is that these will only have a small effect on your overall grade, most notably a much smaller effect that the required portions of the assignments. For this reason, I suggest that you consider the extra credit to be purely **extra**, i.e. do not do extra credit in lieu of required work in this class or any of your other classes. 
-
 ## Deadlines
 
-**Exercises** may not be turned in late. (Although when calculating final grades, we
-will drop your lowest twoish exercise scores.) 
+To facilitate timely feedback, exercises will not be accepted late. That being said, we are happy to consider any request for a deadline extension. These deadline extensions are intended to either grant submission flexibility for students who experience hardship during the open window of the assignment, or to grant a small amount of extra time to students who began the assignment in a timely manner, have made substantial progress before the deadline, but would have their grade be a more accurate reflection of their understanding if a minimal amount of extra time was allotted.
 
-You are allotted four late days that may be used
-to gain an extra 24 hours for a programming project (final project submissions only, not checkpoints). If you have used up your late days, a penalty of
-10% per day will be assessed. Programming projects will not be accepted beyond 48 hours from
-the original due date. 
+To submit an extension request, fill out this google form, providing either:
+1) The hardship experienced (a high-level description like "ER visit" is fine, details are unncessary), as well as the approximate amount of time lost due to the hardship and a suggested replacement deadline.
+1) A discription of when you started the assignment, how much progress you've made, where you've gotten stuck, and a suggested replacement deadline.
 
-If any assigments incur a lateness grade penalty, at the end of the quarter the assignments we will automatically apply the allotted late daysand grade penalties to assignments to maximize your grade.
+You ensure that we can respond to these requests before the deadline, please submit the requests no later than 24 hours before the deadline whenever possible. Requests made beyond that window may not be processed before the assignment deadline, and therefore there is a risk of the request being denied after the deadline has already passed.
 
 ## Regrades
 
-We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on assignments within either one week of your grade being returned or by 11:59pm on March 15, which ever date is sooner. 
+We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on assignments within either one week of your grade being returned or by Monday August 19, whichever date is sooner.
 
 Please only submit a regrade request if you believe the rubric was misapplied to your submission or if there was a keying error for the task. In the case of a misapplication of the rubric, identify specifically what in your submission demonstrates the misapplication and suggest how you believe the rubric should be correctly applied. In the case of a keying error, state and justify why you believe your answer should be considered correct. Disagreement with the existance or weighting of a rubric item is not considered a valid reason for a regrade request.
 

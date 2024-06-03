@@ -16,7 +16,7 @@ Covers abstract data types and structures including dictionaries, balanced trees
 
 The goal of this course is to expand your tool kit for solving a variety of computational problems, and to evaluate the quality of your solutions. In particular, we will cover:
 
-- Abstract Data Types, including:
+- Abstract Data Types and their Data Structures, including:
     - Dictionaries
     - Balanced Trees
     - Hash Tables
@@ -70,6 +70,7 @@ In particular, we assume knowledge of:
 - Proof Techniques
 - Logic and Notation
 - Recursion
+- Java Programming
 
 # Platforms
 
