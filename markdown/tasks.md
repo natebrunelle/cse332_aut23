@@ -4,8 +4,10 @@ title: Tasks
 
 All tasks will be submitted and graded on [Gradescope](https://www.gradescope.com/courses/691776).
 
+
 # Exercises
 
+Some exercises may require submitting to multipl gradescope assignments (e.g. if there is a programming component as well as a written component). The assignment instructions will make it clear when this is the case.
 
 # Exams
 
@@ -18,7 +20,7 @@ The Midterm Exam will be held on Friday July 19 during our normal lecture sessio
 1. Closed book, closed notes except for a 1-page 2-sided reference sheet of your own creation.
 1. No calculators, cell phones, or other electronic devices allowed.
 1. No writing after time is called, make sure you put your name on your paper first.
-1. You will be provided a [reference sheet](files/midterm_reference.pdf) during the exam.
+1. You will be provided a [reference sheet](files/midterm_reference.pdf) (tentative) during the exam.
 
 ### Content
 
@@ -40,8 +42,6 @@ The exam will cover all material from the beginning of the quarter up through B 
 - Priority Queues:
 	- ADT operations (insert, findMin, deleteMin, increaseKey, decreaseKey, remove)
 	- The Heap data structure (including the heap property, complete tree, and buildHeap)
-- Tries:
-	- Find, insert, and delete operations
 - Trees:
 	- Definitions of height, branching factor
 	- Preorder, Inorder, Postorder traversals of binary trees
@@ -52,7 +52,7 @@ The exam will cover all material from the beginning of the quarter up through B 
 
 ### Past Exams
 
-We have provided links to past exams below. Since all past exams were given by a different instructor, be advised that the question style, length, and difficulty may be different this quarter. I recommend that you mostly use these exams to evaluate your preparedness rather than as a study guide.
+We have provided links to past exams below. Be advised that the question style, length, and difficulty may differ among quarters. I recommend that you mostly use these exams to evaluate your preparedness rather than as a study guide. In other quarters the final exam was cumulative, and so you may be able to find additional practice within the final exams as well.
 
 - [CSE 332 23au Midterm](files/cse332-midterm-23au.pdf), [Solution](files/cse332-midterm-23au-soln.pdf)
 - [CSE 332 23sp Midterm](files/cse332-midterm-23sp.pdf), [Solution](files/cse332-midterm-23sp-soln.pdf)
@@ -77,7 +77,7 @@ The Final Exam will be held on Friday August 16 in lecture.
 1. Closed book, closed notes except for a 1-page 2-sided reference sheet of your own creation.
 1. No calculators, cell phones, or other electronic devices allowed.
 1. No writing after time is called, make sure you put your name on your paper first.
-1. You will be provided a [reference sheet](files/cse332_final_wi24_reference.pdf) during the exam.
+1. You will be provided a [reference sheet](files/cse332_final_wi24_reference.pdf) (tentative) during the exam.
 
 ### Content
 
@@ -146,9 +146,11 @@ The final exam will cover:
 
 Note: You will likely be asked to write java code using ForkJoin and/or threads. We will not require your syntax to be perfectly correct, but it should be correct enough that we can verify the code's would be correct if syntax issues were fixed. That is, we expect edge cases and other considerations of an algorithm to be correct, but don't necessarily expect all keywords or semicolons to be perfect.
 
+The final exam is not designed to be cumulative in that there may be questions designed to specifically test on content from the midterm. However, knowledge of all content from the midterm will be assumed, and so some questions may incidentally involve midterm material. For example, a question relating to sorting may involve evaluating the running time of code. A question involving graphs may require knowledge of trees.
+
 ### Past Exams
 
-We have provided links to past exams below. Since all past exams were given by a different instructor, be advised that the question style, length, and difficulty may be different this quarter. I recommend that you mostly use these exams to evaluate your preparedness rather than as a study guide. In summary, question style will be similar to the midterm, quest content will be similar to the exams below.
+We have provided links to past exams below. Be advised that in other (non-summer) quarters the final exam has been cumulative, and so you will see content on these covered on the midterm. The final exam for this summer will not include midterm content, and can be best approximated by simply omitted those portions of the exams below. I recommend that you mostly use these exams to evaluate your preparedness rather than as a study guide.
 
 - [CSE 332 23au](files/cse332-final-23au.pdf), [Solution](files/cse332-final-23au-soln.pdf)
 - [CSE 332 23wi](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-23wi.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-23wi-soln.pdf)
