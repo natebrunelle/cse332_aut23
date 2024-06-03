@@ -4,9 +4,9 @@ title: Home
 
 Handy links:
 
-- [Gradescope](https://www.gradescope.com/courses/691773)
-- [Ed Board](https://edstem.org/us/courses/50612/discussion/)
-- [Lecture Recordings](https://canvas.uw.edu/courses/1695942/external_tools/21130)
+- [Gradescope](https://www.gradescope.com/courses/797871)
+- [Ed Board](https://edstem.org/us/courses/60022)
+- [Lecture Recordings](https://canvas.uw.edu/courses/1729273/external_tools/21130)
 
 # Course Description
 
