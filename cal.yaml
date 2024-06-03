@@ -207,32 +207,3 @@ assignments:
     Resub1:
         group: programming
         due: 2024-07-22 23:59:00
-   
-    CC1 Running Time:
-        group: programming
-        due: 2024-06-24 23:59:00
-        weight: 1
-    CC2 Recurrences:
-        group: programming
-        due: 2024-06-27 23:59:00
-        weight: 1
-
-    CC3 PQs:
-        group: programming
-        due: 2024-07-01 23:59:00
-        weight: 1
-
-    CC4 AVL Trees:
-        group: programming
-        due: 2024-07-11 23:59:00
-        weight: 1
-    
-    CC5 Hashing:    
-        group: programming
-        due: 2024-06-27 23:59:00
-        weight: 1
-
-    CC6 Sorting:
-        group: programming
-        due: 2024-07-17 23:59:00
-        weight: 1
