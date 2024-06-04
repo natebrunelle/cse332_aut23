@@ -9,6 +9,24 @@ All tasks will be submitted and graded on [Gradescope](https://www.gradescope.co
 
 Some exercises may require submitting to multiple gradescope assignments (e.g. if there is a programming component as well as a written component). The assignment instructions will make it clear when this is the case.
 
+## Exercise 0
+
+The objectives of this exercise are to: 
+
+- Set up your Java environment
+- Refresh our Java programming skills
+- Gain experience implementing data structures from an ADT
+- Use Java generics
+- Use benchmarking to study the running time of algorithms
+
+This assignment has two main parts. The first involves implementing some data structures. The second involves analyzing the running times of your implementations using benchmarking. Each part will have a separate Gradescope submission, which will combine together to count as your exercise 0 grade.
+
+For this exercise, you will need:
+
+- [Starter Code](/files/exercises/ex0.zip) - which contains various classes that will be needed for this assignment.
+- [Specification](https://docs.google.com/document/d/1Tq_at8VAZOueWtMm6UWtNZmAhoKapmX7Woqp1xfIwiQ/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
+- [Benchmarking Worksheet](https://docs.google.com/document/d/1xKSboyCwlGAl4boIP_5TLEb1zCRIWoxvRJdCHFvga8I/edit?usp=sharing) - which you will copy and complete for the benchmarking portion of the assignment.
+
 # Exams
 
 ## Exam 1
