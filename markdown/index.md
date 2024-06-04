@@ -46,7 +46,7 @@ At the conclusion of this course, a successful student will be able to:
 - Analyze a pre-written algorithm to determine its resource complexity
 - Produce programs that make non-trivial use of multithreading
 - Identify opportunities to accelerate programs using parallelism
-- Idenify the characteristics of problems which belong to classes P and NP, then reason about the implications this classification has on the efficiency of solutions to such a problem.
+- Identify the characteristics of problems which belong to classes P and NP, then reason about the implications this classification has on the efficiency of solutions to such a problem.
 
 
 
