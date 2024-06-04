@@ -7,7 +7,7 @@ All tasks will be submitted and graded on [Gradescope](https://www.gradescope.co
 
 # Exercises
 
-Some exercises may require submitting to multipl gradescope assignments (e.g. if there is a programming component as well as a written component). The assignment instructions will make it clear when this is the case.
+Some exercises may require submitting to multiple gradescope assignments (e.g. if there is a programming component as well as a written component). The assignment instructions will make it clear when this is the case.
 
 # Exams
 
@@ -100,7 +100,7 @@ The final exam will cover:
 		- Heap Sort
 		- Merge Sort
 		- Quick Sort
-		- Buckeet Sort
+		- Bucket Sort
 		- Radix Sort
 - Graphs
 	- The definitions of the many terms presented in the graphs section, including: 
@@ -136,7 +136,7 @@ The final exam will cover:
 		- Locks, reentrant locks
 		- Java's Synchronized statement
 		- Lock scheme granularity (coarse vs. fine)
-		- Criticl section size
+		- Critical section size
 		- Deadlock
 - P, NP, NP-Completeness, EXP
 	- Definitions and relationships between these classes. For example, questions like:
