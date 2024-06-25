@@ -7,6 +7,7 @@ Handy links:
 - [Gradescope](https://www.gradescope.com/courses/797871)
 - [Ed Board](https://edstem.org/us/courses/60022)
 - [Lecture Recordings](https://canvas.uw.edu/courses/1729273/external_tools/21130)
+- [Extension Request](https://docs.google.com/forms/d/e/1FAIpQLSfVpfdAW2-lIvxsO7qrq9TN05MjPU6W4y-kGOr2vW0rdcX_-Q/viewform?usp=sf_link)
 
 # Course Description
 
