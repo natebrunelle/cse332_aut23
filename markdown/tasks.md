@@ -27,6 +27,24 @@ For this exercise, you will need:
 - [Specification](https://docs.google.com/document/d/1Tq_at8VAZOueWtMm6UWtNZmAhoKapmX7Woqp1xfIwiQ/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
 - [Benchmarking Worksheet](https://docs.google.com/document/d/1xKSboyCwlGAl4boIP_5TLEb1zCRIWoxvRJdCHFvga8I/edit?usp=sharing) - which you will copy and complete for the benchmarking portion of the assignment.
 
+## Exercise 1
+
+The objectives of this exercise are to:
+
+- Gain experience identifying running times of given code
+- Use the formal definitions of big-Oh, big-Omega, and big-Theta
+- See examples of what changes to function do/don't change their asymptotic behavior
+
+Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
+
+## Exercise 2
+
+The objectives of this exercise are to:
+- Gain experience with solving recurrence relations using the tree method
+- See examples of how different changes to recurrence relations do/don't change their asymptotic behavior
+
+Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
+
 # Exams
 
 ## Exam 1
