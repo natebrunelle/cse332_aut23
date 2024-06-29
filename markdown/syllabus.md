@@ -85,7 +85,7 @@ To submit an extension request, fill out [this google form](https://docs.google.
 1) The hardship experienced (a high-level description like "ER visit" is fine, details are unnecessary), as well as the approximate amount of time lost due to the hardship and a suggested replacement deadline.
 1) A description of when you started the assignment, how much progress you've made, where you've gotten stuck, and a suggested replacement deadline.
 
-To ensure that we can respond to these requests before the deadline, please submit the requests no later than 24 hours before the deadline whenever possible. Requests made beyond that window may not be processed before the assignment deadline, and therefore there is a risk of the request being denied after the deadline has already passed.
+To ensure that we can respond to these requests before the deadline, please submit the requests no later than 24 hours before the deadline whenever possible. Requests made beyond that window may not be processed before the assignment deadline, and therefore there is a risk of the request being denied after the deadline has already passed. Requests made after this time should include additional justification for why the request was delayed.
 
 ## Regrades
 
