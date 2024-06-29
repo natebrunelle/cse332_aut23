@@ -40,10 +40,24 @@ Instructions for this exercise are in Gradescope. To submit you will provide you
 ## Exercise 2
 
 The objectives of this exercise are to:
+
 - Gain experience with solving recurrence relations using the tree method
 - See examples of how different changes to recurrence relations do/don't change their asymptotic behavior
 
 Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
+
+## Exercise 3
+
+The objectives of this exercise are to:
+
+- Understand the binary heap data structure by implementing it
+- See how to modify the binary heap data structure to add new operations efficiently
+- Apply the binary heap data structure to create a new data structure
+
+This is a programming exercise which you will submit to gradescope. There is no written component to this exercise, your code is your only submission. For this exercise, you will need:
+
+- [Starter Code](/files/exercises/ex3.zip) - which contains various classes that will be needed for this assignment.
+- [Specification](https://docs.google.com/document/d/1VdB7eXj89m6n0VUerDlfb39tAphi16aEzbhrQQMx4g0/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
 
 # Exams
 
