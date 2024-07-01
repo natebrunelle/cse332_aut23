@@ -88,7 +88,7 @@ The Midterm Exam will be held on Friday July 19 during our normal lecture sessio
 
 ### Content
 
-The exam will cover all material from the beginning of the quarter up through B Trees. This includes:
+The exam will cover all material from the beginning of the quarter up through AVL Trees. This includes:
 
 - Abstract Data Types and Data structures:
 	- Their Definitions and Differences
@@ -116,7 +116,18 @@ The exam will cover all material from the beginning of the quarter up through B 
 
 ### Past Exams
 
-We have provided links to past exams below. Be advised that the question style, length, and difficulty may differ among quarters. I recommend that you mostly use these exams to evaluate your preparedness rather than as a study guide. In other quarters the final exam was cumulative, and so you may be able to find additional practice within the final exams as well.
+I have drafted a practice exam that is representative of this quarter's midterm: [24su practice midterm](cse332-midterm-24su-sample.pdf) and [Solution](cse332-midterm-24su-sample-soln.pdf)
+
+Below I have several quarters' midterm exams. Be advised that the question style, length, difficulty, and content may differ among quarters. Most notably, prior quarters covered two data structures that have been omitted from the course this quarter - Tries and B-Trees. In lieue of those, the summer 2024 exam has a greater emphasis on running time content. 
+
+Overall, here is how I would recommend that you use these sample exams to prepare. 
+
+- First, study on your own without using any of the provided sample exams. To do this, review the exercises, lecture slides, and section materials. If there are things included in there that you do not recall or find confusing, look those up to seek clarification.
+- Next, use the past exams below to evaluate your preparedness. Attempt some problems, then compare your answer against the solution provided. If they differ, try to diagnose whether you answer is equally valid, or else where you may have a misconception (you're welcome to come to office hours for help!). In other quarters the final exam was cumulative, so you will be able to find additional practice within the previous final exams as well. 
+- Once you are confident with your ability to answer questions in the past exams, take the practice exam above as a simulation of the actual exam (so create your reference sheet and then set aside as 60 minute block of time to take the exam from start to finish). Then trade exams with a friend so that they can compare your solutions to the key above and give you feedback.
+- Use this feedback to decide where to review.
+
+Past Exams:
 
 - [CSE 332 23au Midterm](files/cse332-midterm-23au.pdf), [Solution](files/cse332-midterm-23au-soln.pdf)
 - [CSE 332 23sp Midterm](files/cse332-midterm-23sp.pdf), [Solution](files/cse332-midterm-23sp-soln.pdf)
