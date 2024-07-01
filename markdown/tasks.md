@@ -37,6 +37,8 @@ The objectives of this exercise are to:
 
 Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
 
+Here are some [sample solutions for question 5](files/exercises/cse332_ex01_su24_solutions.pdf).
+
 ## Exercise 2
 
 The objectives of this exercise are to:
