@@ -118,7 +118,7 @@ The exam will cover all material from the beginning of the quarter up through AV
 
 ### Past Exams
 
-I have drafted a practice exam that is representative of this quarter's midterm: [24su practice midterm](cse332-midterm-24su-sample.pdf) and [Solution](cse332-midterm-24su-sample-soln.pdf)
+I have drafted a practice exam that is representative of this quarter's midterm: [24su practice midterm](files/cse332-midterm-24su-sample.pdf) and [Solution](files/cse332-midterm-24su-sample-soln.pdf)
 
 Below I have several quarters' midterm exams. Be advised that the question style, length, difficulty, and content may differ among quarters. Most notably, prior quarters covered two data structures that have been omitted from the course this quarter - Tries and B-Trees. In lieue of those, the summer 2024 exam has a greater emphasis on running time content. 
 
