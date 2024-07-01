@@ -59,6 +59,20 @@ This is a programming exercise which you will submit to gradescope. There is no 
 - [Starter Code](/files/exercises/ex3.zip) - which contains various classes that will be needed for this assignment.
 - [Specification](https://docs.google.com/document/d/1VdB7eXj89m6n0VUerDlfb39tAphi16aEzbhrQQMx4g0/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
 
+## Exercise 4
+
+The objectives of this exercise are to:
+
+- Identify the relationships between binary search trees and AVL trees by implementing AVL trees as a subclass of binary search trees (and thereby inheriting methods whenever possible).
+- Develop familiarity with the AVLTree data structure by implementing it. In particular: understanding what information needs to be maintained in order to preserve the structure property (height of subtrees differs by 0 or 1), using that information to correctly identify to perform rotation operations.
+- Highlight the advantages of using an ordered dictionary data structure (like a binary search tree) by using one to implement a new data structure
+
+
+This is a programming exercise which you will submit to gradescope. There is no written component to this exercise, your code is your only submission. For this exercise, you will need:
+
+- [Starter Code](/files/exercises/ex4.zip) - which contains various classes that will be needed for this assignment.
+- [Specification](https://docs.google.com/document/d/1mjVqF-Qi_mJ4ze0XAn_Q64Cj9zNCG-bd_H3TXgtV3Jw/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
+
 # Exams
 
 ## Exam 1
