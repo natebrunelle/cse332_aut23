@@ -77,6 +77,21 @@ This is a programming exercise which you will submit to gradescope. There is no 
 - [Starter Code](/files/exercises/ex4.zip) - which contains various classes that will be needed for this assignment.
 - [Specification](https://docs.google.com/document/d/1mjVqF-Qi_mJ4ze0XAn_Q64Cj9zNCG-bd_H3TXgtV3Jw/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
 
+
+## Exercise 5
+
+The objectives of this exercise are: 
+
+- Understand the mechanics of an efficient chaining hash table by implementing one of your own
+- See how to write a good hash function for a new data structure
+- Apply the advantages of a hash table by using it as part of an algorithm that involves a large number of inserts and finds of a large dictionary.
+
+
+This is a programming exercise which you will submit to gradescope. There is no written component to this exercise, your code is your only submission. For this exercise, you will need:
+
+- [Starter Code](/files/exercises/ex5.zip) - which contains various classes that will be needed for this assignment.
+- [Specification](https://docs.google.com/document/d/1Vr_UM8oBhT7nja7n7XEq16d0dq3xseKF5pX9_jZaUa0/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
+
 # Exams
 
 ## Exam 1
