@@ -48,6 +48,8 @@ The objectives of this exercise are to:
 
 Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
 
+Here are some [sample solutions](files/exercises/exercise2_solutions.pdf).
+
 ## Exercise 3
 
 The objectives of this exercise are to:
