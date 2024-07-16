@@ -92,6 +92,16 @@ This is a programming exercise which you will submit to gradescope. There is no 
 - [Starter Code](/files/exercises/ex5.zip) - which contains various classes that will be needed for this assignment.
 - [Specification](https://docs.google.com/document/d/1Vr_UM8oBhT7nja7n7XEq16d0dq3xseKF5pX9_jZaUa0/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
 
+## Exercise 6
+
+The objectives of this exercise are:
+
+- Recognize the need for various sorting algorithm properties in applications in order to select the best-fit algorithm
+- Demonstrate how to determine whether or not an algorithm possess the property of being a stable sort
+- Apply the insights utilized from studying sorting algorithms to develop a new algorithm 
+
+Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
+
 # Exams
 
 ## Exam 1
