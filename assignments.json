@@ -47,7 +47,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-24 23:59"
+  ,"due":"2024-07-26 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -56,7 +56,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-24 23:59"
+  ,"due":"2024-07-26 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -65,7 +65,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-26 23:59"
+  ,"due":"2024-07-29 23:59"
   }
 ,"EX7 Graphs 1":
   {"portion":"30"
