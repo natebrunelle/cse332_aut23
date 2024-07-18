@@ -106,9 +106,9 @@ Instructions for this exercise are in Gradescope. To submit you will provide you
 
 ## Resubmission 1
 
-For this resubmission you may resubmit any assignment which covered content through the midterm exam. This includes EX0, EX1, EX2, EX3, EX4, and EX5. To indicate which assignment you would like to resubmit, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSezOKB4d5Wmzi7ajoXrYkL8NGjoieqshK-xGqklqBuZOUcs3A/viewform?usp=sf_link). Please do so by Thursday, 7/25. 
+For this resubmission you may resubmit any assignment which covered content through the midterm exam. This includes EX0, EX1, EX2, EX3, and EX4. To indicate which assignment you would like to resubmit, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSezOKB4d5Wmzi7ajoXrYkL8NGjoieqshK-xGqklqBuZOUcs3A/viewform?usp=sf_link). Please do so by Thursday, 7/25. 
 
-If you choose to resubmit a programming exercise (EX0, EX3, EX4, EX5) then we will extend your deadline for that exercise until Monday 7/29. Written exercises (EX1, EX2) have different versions for the resubmission with slightly alterred questions. We will enable you to submit to these altered version if you choose to resubmit one of those exercises.
+If you choose to resubmit a programming exercise (EX0, EX3, EX4) then we will extend your deadline for that exercise until Monday 7/29. Written exercises (EX1, EX2) have different versions for the resubmission with slightly alterred questions. We will enable you to submit to these altered version if you choose to resubmit one of those exercises.
 
 Resubmitting is completely optional. If you are satisfied with your current grades then you're welcome to ignore the resubmissions. If you choose to resubmit an assignment, the new submission's grade will replace the original, whether lower or higher.
 
