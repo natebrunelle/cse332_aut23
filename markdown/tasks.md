@@ -104,7 +104,7 @@ Instructions for this exercise are in Gradescope. To submit you will provide you
 
 # Resubmissions
 
-##Resubmission 1
+## Resubmission 1
 
 For this resubmission you may resubmit any assignment which covered content through the midterm exam. This includes EX0, EX1, EX2, EX3, EX4, and EX5. To indicate which assignment you would like to resubmit, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSezOKB4d5Wmzi7ajoXrYkL8NGjoieqshK-xGqklqBuZOUcs3A/viewform?usp=sf_link). Please do so by Thursday, 7/25. 
 
