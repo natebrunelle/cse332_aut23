@@ -150,14 +150,14 @@ assignments:
     
     EX5 Hashing:
         group: programming
-        due: 2024-07-24 23:59:00
+        due: 2024-07-26 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
     EX6 Sorting:
         group: programming
-        due: 2024-07-24 23:59:00
+        due: 2024-07-26 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
@@ -206,4 +206,4 @@ assignments:
 
     Resub1:
         group: programming
-        due: 2024-07-26 23:59:00
+        due: 2024-07-29 23:59:00
