@@ -102,6 +102,29 @@ The objectives of this exercise are:
 
 Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
 
+## Exercise 7
+
+The objectives of this exercise are: 
+
+- Interpret a non-graph problem into a graph problem
+- Implement a graph using an adjacency list representation
+- Adapt a standard graph algorithm (depth-first search) to solve a new problem
+
+This is a programming exercise which you will submit to gradescope. There is no written component to this exercise, your code is your only submission. For this exercise, you will need:
+
+- [Starter Code](/files/exercises/ex7.zip) - which contains various classes and testing files that will be needed for this assignment.
+- [Specification](https://docs.google.com/document/d/1RtZf5KwGMLQ0MUfTFvBcUHc2AGSxmevPyF0UgrxYZsg/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
+
+## Exercise 8
+
+The objectives of this exercise are:
+
+- Identify graphs for which Dijkstra's algorithm gives a different answer from a BFS
+- Show why Disjkstra's algorithm requires the assumption that no edge weights are negative
+- Show that a reasonable idea for how to deal with negative edge weights does not correctly address the problem.
+
+Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
+
 # Resubmissions
 
 ## Resubmission 1
