@@ -142,6 +142,9 @@ Resubmitting is completely optional. If you are satisfied with your current grad
 
 The Midterm Exam will be held on Friday July 19 during our normal lecture session.
 
+
+Here are [sample solutions](files/cse332_midterm_su24_soln.pdf) for the midterm.
+
 ### Policies
 
 1. Closed book, closed notes except for a 1-page 2-sided reference sheet of your own creation.
