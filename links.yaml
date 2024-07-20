@@ -121,10 +121,9 @@
     slides (pdf): files/slides/lecture17_graphs4.pdf
     
 2024-02-09:
-    slides (pptx): files/slides/lecture15_sorting2.pptx
-    slides (pdf): files/slides/lecture15_sorting2.pdf
-    slides (1230): files/slides/lecture15_sorting2_ink1230.pdf
-    slides (330): files/slides/lecture15_sorting2_ink330.pdf
+    slides: https://docs.google.com/presentation/d/1gcEiS9fdjsM_8pzzbeihDJtPDSNT61ZrVPGuojTKm64/edit?usp=sharing
+    starter code: files/section/section6.zip
+    solution: files/section/section6_solution.zip
     
 2024-02-12:
     slides (pptx): files/slides/lecture16_radix_graphs.pptx
