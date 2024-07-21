@@ -130,17 +130,16 @@
 2024-07-31:
     slides (pptx): files/slides/lecture18_forkjoin.pptx
     slides (pdf): files/slides/lecture18_forkjoin.pdf
-    
+    slides (ink): files/slides/lecture18_forkjoin_ink.pdf
+
 2023-08-01:
     slides: https://docs.google.com/presentation/d/1mv6upqq2HZoz5k_o41gXYY11lcrLX9DDRoi6I06mnFE/edit?usp=sharing
     handout: https://docs.google.com/document/d/1a0oVd_IypHoK5QyMxxTAMsrajDjqq_Z8eBmPsV-XMSM/edit?usp=sharing
     solution: https://docs.google.com/document/d/1uYkgEjNI4AjOgv5Gjm4yDqLc5fCKU74vwRFd6SmbGAk/edit?usp=sharing
     
-2024-02-14:
-    slides (pptx): files/slides/lecture17_graphs.pptx
-    slides (pdf): files/slides/lecture17_graphs.pdf
-    slides (1230): files/slides/lecture17_graphs_ink1230.pdf
-    slides (330): files/slides/lecture17_graphs_ink330.pdf
+2024-08-02:
+    slides (pptx): files/slides/lecture19_parallelprefix.pptx
+    slides (pdf): files/slides/lecture19_parallelprefix.pdf
     
 2024-02-15:
     slides: https://docs.google.com/presentation/d/1x1dcay56O3STqLcNgX6AlpLrl-bkejRavLf2LWZ1SB8/edit?usp=sharing
