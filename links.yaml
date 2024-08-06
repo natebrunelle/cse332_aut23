@@ -151,12 +151,12 @@
 2024-08-05:
     slides (pptx): files/slides/lecture20_analysis.pptx
     slides (pdf): files/slides/lecture20_analysis.pdf
+    slides (ink): files/slides/lecture20_analysis_ink.pdf
+    recording: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ce0cba0-488f-4216-964a-b1900155c13f
     
-2024-02-21:
-    slides (pptx): files/slides/lecture19_forkjoin.pptx
-    slides (pdf): files/slides/lecture19_forkjoin.pdf
-    slides (1230): files/slides/lecture19_forkjoin_ink1230.pdf
-    slides (1230): files/slides/lecture19_forkjoin_ink330.pdf
+2024-08-07:
+    slides (pptx): files/slides/lecture21_raceconditions_deadlock.pptx
+    slides (pdf): files/slides/lecture21_raceconditions_deadlock.pdf
     Grossman (2.1-3.4): files/sophomoricParallelismAndConcurrency.pdf
 
 2024-02-22:
