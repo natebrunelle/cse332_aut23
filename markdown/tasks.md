@@ -151,6 +151,16 @@ This is a programming exercise which you will submit to gradescope. There is no 
 - [Starter Code](/files/exercises/ex10.zip) - which contains various classes and testing files that will be needed for this assignment.
 - [Specification](https://docs.google.com/document/d/11iH8ehwAn1-AWPM945rhzqFvhEXEa-Yh1XEJsuJnLlk/edit?usp=sharing) - which contains all instructions for what to do for this assignment
 
+## Exercise 11 
+
+The objectives of this exercise are:
+
+- Identify potential concurrency inssues in code
+- Specify the circumstances where those occur
+- Correct those errors
+
+Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
+
 # Resubmissions
 
 ## Resubmission 1
