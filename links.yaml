@@ -165,17 +165,13 @@
     slides: https://docs.google.com/presentation/d/1MI7RgF8Q0iAvBTtvMwYGIsR-Qm96_fS8OaBHBgUFIkc/edit?usp=sharing
     code: https://gitlab.cs.washington.edu/cse332-24wi/section-para
 
-2024-02-23:
-    slides (pptx): files/slides/lecture20_prefix.pptx
-    slides (pdf): files/slides/lecture20_prefix.pdf
-    slides (1230): files/slides/lecture20_prefix_ink1230.pdf
-    slides (330): files/slides/lecture20_prefix_ink330.pdf
+2024-08-09:
+    slides (pptx): files/slides/lecture22_deadlock.pptx
+    slides (pdf): files/slides/lecture22_deadlock.pdf
 
 2023-11-20:
-    slides(pptx): files/slides/lecture22_forkjoin_analysis.pptx
-    slides(pdf): files/slides/lecture22_forkjoin_analysis.pdf
-    slides(inked): files/slides/lecture22_forkjoin_analysis_ink.pdf
-    Grossman (3.5-4.3): files/sophomoricParallelismAndConcurrency.pdf
+    slides(pptx): files/slides/lecture23_pnp.pptx
+    slides(pdf): files/slides/lecture23_pnp.pdf
 
 2024-02-26:
     slides(pptx): files/slides/lecture21_analysis.pptx
