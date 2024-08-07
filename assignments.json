@@ -121,4 +121,10 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"Resub2":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-08-17 23:59"
+  }
 }
