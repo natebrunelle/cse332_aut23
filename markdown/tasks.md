@@ -161,6 +161,15 @@ The objectives of this exercise are:
 
 Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
 
+## Exercise 12
+The objectives of this exercise are:
+
+- Articulate carefullly the definitions of P and NP
+- Explore the relationships between complexity classes
+- Express how reductions help to result the P=NP question.
+
+Instructions for this exercise are in Gradescope. To submit you will provide your answers there (either as a fill-in-the-blank or by uploading your work as an image or pdf).
+
 # Resubmissions
 
 ## Resubmission 1
@@ -171,6 +180,10 @@ If you choose to resubmit a programming exercise (EX0, EX3, EX4) then we will ex
 
 Resubmitting is completely optional. If you are satisfied with your current grades then you're welcome to ignore the resubmissions. If you choose to resubmit an assignment, the new submission's grade will replace the original, whether lower or higher.
 
+
+## Resubmission 2
+
+For this resubmission you may resubmit any assignment which covered content after the midterm exam. This includes EX5, EX6, EX7, EX8,EX9, EX10, EX11, and EX12. To indicate which assignment you would like to resubmit, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeQ003KeFzOuBVsthEmmY23IKdxArkP8wiosMfpbDYadQzkxg/viewform?usp=sf_link). Please do so by Friday, 8/16 at 12:00pm (so shortly after the conclusion of the final exam).
 
 # Exams
 
