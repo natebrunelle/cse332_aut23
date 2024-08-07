@@ -54,9 +54,9 @@ lectures:
     - Parallelism 1 (Fork-Join)
     - Parallelism 2 (Parallel Prefix)
     - Parallel Analysis & Concurrency
-    - Synchronization (Race Conditions & Deadlock)
+    - Synchronization (Race Conditions)
+    - Synchronization (Deadlock)
     - P NP NP-Complete
-    - Review
     - Finale
     - Exam
 
