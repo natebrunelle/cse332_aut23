@@ -103,12 +103,6 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"Resub2":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2024-08-10 23:59"
-  }
 ,"EX11 Concurrency":
   {"portion":"30"
   ,"drop":2
