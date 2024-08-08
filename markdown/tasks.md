@@ -337,7 +337,7 @@ The final exam is not designed to be cumulative in that there may be questions d
 
 We have provided links to past exams below. Be advised that in other (non-summer) quarters the final exam has been cumulative and has included P/NP content, and so you will see content on these covered on the midterm. Your final exam for this summer will not include that content, and can be best approximated by simply omitted those portions of the exams below. I recommend that you mostly use these exams to evaluate your preparedness rather than as a study guide.
 
-- [CSE332 24wi](files/cse332_final_wi24.pdf), [Solution](files/cse332_final_24wi_soln.pdf)
+- [CSE332 24wi](files/cse332_final_wi24.pdf), [Solution](files/cse332_final_wi24_soln.pdf)
 - [CSE 332 23au](files/cse332-final-23au.pdf), [Solution](files/cse332-final-23au-soln.pdf)
 - [CSE 332 23wi](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-23wi.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-23wi-soln.pdf)
 - [CSE 332 19au](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-19au.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-final-19au-soln.pdf)
