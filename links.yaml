@@ -169,15 +169,19 @@
     slides (pptx): files/slides/lecture22_deadlock.pptx
     slides (pdf): files/slides/lecture22_deadlock.pdf
     slides (ink): files/slides/lecture22_deadlock_ink.pdf
+    recording: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=86c17609-5ffd-4a83-b98a-b1900155c8bc
 
 2024-08-12:
     slides(pptx): files/slides/lecture23_pnp.pptx
     slides(pdf): files/slides/lecture23_pnp.pdf
     slides(ink): files/slides/lecture23_pnp_ink.pdf
+    recording: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6678c8a5-28e3-44bb-a7fb-b1900155cc85
 
 2024-08-14:
     slides(pptx): files/slides/lecture24_npcomplete.pptx
     slides(pdf): files/slides/lecture24_npcomplete.pdf
+    slides(ink): files/slides/lecture24_npcomplete_ink.pdf
+    recording: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3b12202e-03b5-4244-b058-b1900155d06a
 
 2024-02-28:
     slides(pptx): files/slides/lecture22_concurrency.pptx
@@ -193,10 +197,10 @@
     slides(330): files/slides/lecture23_raceconditions_deadlock_ink330.pdf
     Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
 
-2024-02-29:
-    slides: https://docs.google.com/presentation/d/1Qa-E3ClDWkJwLyMCQA5W9QrySJOs0snKUb6FFBgFv8g/edit?usp=sharing
-    handout: https://docs.google.com/document/d/1fitHpWphok7mSNOA1ye50HJnJaasGXy6mw8FYzZ9XxU/edit?usp=sharing
-    solution: https://docs.google.com/document/d/1ZPF_vLEMXJRTdnMXjCLyTUULUDRDDM55zpAGqtLwU9M/edit?usp=sharing
+2024-08-15:
+    slides: https://docs.google.com/presentation/d/1AxcgYdkEtkesI0TZYaSdB4BXMFZV8Fb1y8qUYBSZytY/edit?usp=sharing
+    handout: https://docs.google.com/document/d/1qyH0MEjoede-YBQwv5tPTvOPmStS6Pp21s3-ZF9ygLk/edit?usp=sharing
+    solution: https://docs.google.com/document/d/1Xf48EYJ7mkm6Am5FXyrO7sR_yg-2VgR2rbOUIvFAU4c/edit?usp=sharing
 
 2024-03-04:
     slides(pptx): files/slides/lecture24_topsort_msts.pptx
