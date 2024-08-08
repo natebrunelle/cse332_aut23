@@ -169,16 +169,13 @@
     slides (pptx): files/slides/lecture22_deadlock.pptx
     slides (pdf): files/slides/lecture22_deadlock.pdf
 
-2023-11-20:
+2024-08-12:
     slides(pptx): files/slides/lecture23_pnp.pptx
     slides(pdf): files/slides/lecture23_pnp.pdf
 
-2024-02-26:
-    slides(pptx): files/slides/lecture21_analysis.pptx
-    slides(pdf): files/slides/lecture21_analysis.pdf
-    slides(1230): files/slides/lecture21_analysis_ink1230.pdf
-    slides(330): files/slides/lecture21_analysis_ink330.pdf
-    Grossman (5.1-5.4): files/sophomoricParallelismAndConcurrency.pdf
+2024-08-14:
+    slides(pptx): files/slides/lecture24_npcomplete.pptx
+    slides(pdf): files/slides/lecture24_npcomplete.pdf
 
 2024-02-28:
     slides(pptx): files/slides/lecture22_concurrency.pptx
