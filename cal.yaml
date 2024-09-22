@@ -64,8 +64,8 @@ lectures:
 
 labs:
     - S1 Intros, Java Generics
-    - S2 Recurrences
-    - S3 PQs & BSTs
+    - S2 Asymptotics
+    - S3 Recurrences
     - S4 AVL Trees
     - S5 Hashing
     - S6 Graphs
