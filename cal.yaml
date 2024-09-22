@@ -54,12 +54,12 @@ lectures:
     - Graphs 1 (Intro to Graphs)
     - Graphs 2 (Traversals)
     - Graphs 3 (Shortest path)
-    - Graphs 4 (MST & Topological Sort)
     - Parallelism 1 (Fork-Join)
     - Parallelism 2 (Parallel Prefix)
     - Synchronization (Race Conditions)
     - Synchronization (Deadlock)
     - Parallel Analysis & Amdahl's Law
+    - Minimum Spanning Trees
     - Complexity Classes
     - P, NP, NP-Complete
     - Finale
