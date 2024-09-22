@@ -183,21 +183,21 @@ assignments:
         weight: 1
         files: 'something.java'
     
-    EX9 MSTs:
+    EX11 MSTs:
         group: programming
         due: 2024-12-04 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    EX10 ForkJoin: 
+    EX9 ForkJoin: 
         group: programming
         due: 2024-11-20 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    EX11 Concurrency:
+    EX10 Concurrency:
         group: programming
         due: 2024-11-27 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
