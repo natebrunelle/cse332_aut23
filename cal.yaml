@@ -168,7 +168,7 @@ assignments:
         weight: 1
         files: 'something.java'
     
-    EX7 Graphs Traversals:
+    EX7 Graph Traversals:
         group: programming
         due: 2024-11-13 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
@@ -177,7 +177,7 @@ assignments:
         
     EX8 Shortest Paths:
         group: programming
-        due: 2024-07-31 23:59:00
+        due: 2024-11-20 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
