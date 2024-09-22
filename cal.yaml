@@ -60,6 +60,7 @@ lectures:
     - Synchronization (Deadlock)
     - Parallel Analysis & Amdahl's Law
     - Minimum Spanning Trees
+    - Disjoint Set Data Structures
     - Complexity Classes
     - P, NP, NP-Complete
     - Finale
