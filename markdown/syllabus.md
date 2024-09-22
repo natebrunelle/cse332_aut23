@@ -91,7 +91,7 @@ To ensure that we can respond to these requests before the deadline, please subm
 
 ## Regrades
 
-We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on assignments within either one week of your grade being returned or by Monday August 19, whichever date is sooner.
+We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on exercises and the midterm within either one week of your grade being returned or by Thursday December 12, whichever date is sooner. You will only have 48 hours to submit regrade requests for the final exam.
 
 Please only submit a regrade request if you believe the rubric was misapplied to your submission or if there was a keying error for the task. In the case of a misapplication of the rubric, identify specifically what in your submission demonstrates the misapplication and suggest how you believe the rubric should be correctly applied. In the case of a keying error, state and justify why you believe your answer should be considered correct. Disagreement with the existance or weighting of a rubric item is not considered a valid reason for a regrade request.
 
