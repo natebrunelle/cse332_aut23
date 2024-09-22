@@ -175,14 +175,14 @@ assignments:
         weight: 1
         files: 'something.java'
         
-    EX8 Graphs 2:
+    EX8 Shortest Paths:
         group: programming
         due: 2024-07-31 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    EX9 Graphs 3:
+    EX9 MSTs:
         group: programming
         due: 2024-08-07 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
