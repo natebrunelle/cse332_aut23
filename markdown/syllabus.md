@@ -6,7 +6,7 @@ title: Syllabus
 
 ## Meetings
 
-In Person lectures will be held in [Gowen Hall](https://www.washington.edu/maps/#!/GWN) (i.e. GWN) room 301 at 9:40pm-10:40am. 
+In Person lectures will be held in [CSE2 (Gates Hall)](https://www.washington.edu/maps/#!/CSE2) room G20 at 12:30pm-1:20pm. 
 
 Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are automatically posted to Canvas under the Panopto tool.
 
