@@ -50,6 +50,7 @@ lectures:
     - Sorting 1
     - Sorting 2
     - Sorting 3
+    - Decision Trees
     - Graphs 1 (Intro to Graphs)
     - Graphs 2 (Traversals)
     - Graphs 3 (Shortest path)
@@ -71,7 +72,7 @@ labs:
     - S5 Hashing
     - S6 Sorting
     - S7 Graphs
-    - S6 Parallel Programs 
+    - S6 ForkJoin 
     - S7 Concurrency & Two-Pass parallel
     - S8 P/NP & Final Review
 
