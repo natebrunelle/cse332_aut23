@@ -43,4 +43,22 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"EX5 Hashing":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-10-25 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX6 Sorting":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-11-06 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
 }

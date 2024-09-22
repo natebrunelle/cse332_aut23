@@ -4,7 +4,7 @@ Special Dates:
   Veterans Day: 2024-11-11
   Thanksgiving Day: 2024-11-28
   Native American Heritage Day: 2024-11-29
-  Midterm Exam: 2024-10-30
+  Midterm Exam: 2024-11-01
   Final Exam: 2024-08-16
 meta:
   timezone: America/New_York
@@ -156,7 +156,7 @@ assignments:
     
     EX5 Hashing:
         group: programming
-        due: 2024-10-25 23:59:00
+        due: 2024-10-28 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
