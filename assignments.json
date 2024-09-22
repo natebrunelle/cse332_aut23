@@ -79,11 +79,38 @@
   ,"weight":1
   ,"files":"something.java"
   }
+,"EX10 ForkJoin":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-11-20 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX11 Concurrency":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-11-27 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
 ,"EX9 MSTs":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
   ,"due":"2024-12-02 23:59"
+  ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
+  ,"weight":1
+  ,"files":"something.java"
+  }
+,"EX12 P and NP":
+  {"portion":"30"
+  ,"drop":2
+  ,"group":"programming"
+  ,"due":"2024-12-06 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
