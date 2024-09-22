@@ -61,8 +61,10 @@ We will consider the grade assigned by the following weighted average (of percen
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Exercises                   65%     There will be 13 total, each counting for 5%
-Exams                       35%     There will be 2 total, a midterm and a (non-cumulative) final exam. Each counts for 17.5%
+Exercises                   60%     There will be 13 total, each counting for 5%, with the lowest exercise grade being dropped [^dropping].
+Exams                       35%     There will be 2 total, a midterm (counting for 15%) and a cumulative final exam (counting for 20%).
+
+[^dropping]: Since the P vs NP material is covered only by EX12, that exercise is not eligible for being dropped.
 
 This numerical calculation is to be considered a **guideline** on your score in the course. Final grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials.
 
