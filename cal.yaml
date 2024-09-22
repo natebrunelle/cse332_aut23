@@ -44,20 +44,21 @@ lectures:
     - Dictionaries (ADT & Binary Search Trees)
     - Dictionaries (AVL Trees 1)
     - Dictionaries (AVL Trees 2)
-    - Dictionaries (Hashing )
+    - Dictionaries (Hashing)
     - Dictionaries (Hashing 2)
     - Sorting 1
     - Sorting 2
+    - Sorting 3
     - Graphs 1 (Intro to Graphs)
     - Graphs 2 (Traversals)
-    - Graphs 2 (Shortest path)
+    - Graphs 3 (Shortest path)
     - Graphs 4 (MST & Topological Sort)
     - Parallelism 1 (Fork-Join)
     - Parallelism 2 (Parallel Prefix)
-    - Parallel Analysis & Concurrency
+    - Parallel Analysis & Amdahl's Law
     - Synchronization (Race Conditions)
     - Synchronization (Deadlock)
-    - P NP NP-Complete
+    - P, NP, NP-Complete
     - Finale
     - Exam
 
