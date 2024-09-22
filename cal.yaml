@@ -65,9 +65,10 @@ lectures:
 labs:
     - S1 Intros, Java Generics
     - S2 Recurrences
-    - S3 AVL Trees
-    - S4 Hashing & Review
-    - S5 Graphs
+    - S3 PQs & BSTs
+    - S4 AVL Trees
+    - S5 Hashing
+    - S6 Graphs
     - S6 Parallel Programs 
     - S7 Concurrency & Two-Pass parallel
     - S8 P/NP & Final Review
