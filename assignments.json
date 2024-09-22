@@ -79,7 +79,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX10 ForkJoin":
+,"EX9 ForkJoin":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -88,7 +88,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX11 Concurrency":
+,"EX10 Concurrency":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
@@ -97,7 +97,7 @@
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX9 MSTs":
+,"EX11 MSTs":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
