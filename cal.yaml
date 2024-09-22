@@ -68,6 +68,7 @@ labs:
     - S3 Recurrences
     - S4 AVL Trees
     - S5 Hashing
+    - S6 Sorting
     - S6 Graphs
     - S6 Parallel Programs 
     - S7 Concurrency & Two-Pass parallel
