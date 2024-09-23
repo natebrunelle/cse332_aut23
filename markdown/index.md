@@ -4,7 +4,7 @@ title: Home
 
 Handy links:
 
-- [Gradescope](https://www.gradescope.com/courses/21130)
+- [Gradescope](https://www.gradescope.com/courses/878334)
 - [Ed Board](https://edstem.org/us/courses/67455)
 - [Lecture Recordings](https://canvas.uw.edu/courses/1746553/external_tools/21130)
 - [Extension Request](https://forms.gle/tpvkhcMxccruXDWe6)
