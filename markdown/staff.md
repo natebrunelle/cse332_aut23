@@ -7,56 +7,34 @@ title: Course Staff
 
 
 
-## Nile Camai
+## Juliette Park
 
-Hi everyone! My name is Nile (he/him) and I'm a fourth-year CS student and sixth-time TA for CSE 332. I've lived in the Seattle area my whole life. Some of my interests include cooking, fashion, and mechanical keyboards. Looking forward to a fun quarter!
+Hello!
+My name is Juliette and I’m majoring in Computer Science with a minor in Slavic Literatures. I do research at the Sauro Lab and build websites for Web Impact. Outside school, I love to be a grandma (buy cardigans, make tea, and read) and give my dog kisses. I really look forward to the quarter and what you will all achieve!  
 
-## Hans Easton
+## Charles Hamilton-Eppler
 
-Hello, my name is Hans! I grew up in Shanghai and moved to Seattle 7 years ago. This is my sixth time TAing for this course, and I am excited to get to know all of you! Fun fact about me is that I spent half a year living in Hawaii last year try to learn surfing. I also love traveling, my most recent favourite being Mexico City! Feel free to chat with me about your projects, course material, internship hunting tips, etc :)
-
-## Arya GJ
-
-Hi everyone! I'm Arya. I am a 5th year BSMS student from Bangalore, India. CSE 332 is the most interesting 300-level CS course I've taken and I am very excited to TA this course again (for the 8th time LOL). I am an avid sports fan; pretty much watch everything from football (soccer) to NBA to F1. I am a big music person too, so definitely drop any suggestions. Feel free to reach out about recruiting, technical interview prep, general CS advice, or literally anything random :)
-
-## Allyson Mangus
-
-Hi, I'm Allyson (she/her)! I'm a third-year CS major and fifth-time TA from Renton, WA. In my free time, I enjoy reading, sketching, and drinking coffee. By the number of hours per year, I probably spend the most time listening to music and being sunburned
-
-## Chandni Rajasekaran
-
-Hi! My name is Chandni and I am currently a fourth year student majoring in computer science. I am super excited to TA this course again since I've come to see that everything I've learned in this class has been very applicable to internship preparation. Outside of school, I really enjoy drawing and baking. As a shameless plug, I have an instagram account where I post my photorealistic color pencil drawings (username: @chandnidraws). I can't wait to meet everyone this quarter!
-
-## James Richie Sulaeman
-
-Hi everyone! I'm James, a Computer Science and Mathematics senior from Jakarta, Indonesia. When I'm not drowning in my assignments, you can find me swinging a tennis racket or hitting the slopes on my snowboard (for as long as there is still snow). I'm thrilled to be part of CSE 332 this quarter and can't wait to work with all of you.
-
-## Amanda Yuan
-
-Hi, I’m Amanda. I’m a BSMS student and this will be my sixth time TA-ing for CSE 332. I like salted caramel and large hair claws. Best of luck this quarter!
+Hey, all! Charles here. This is my second time TA-ing 332 and my third time overall. In my free time, I like to go hiking and take photos. Excited to meet you all!
 
 ## Mohamed Awadalla
 
-Hi! I'm Mohamed Awadalla, and I'm a junior and fourth-time TA for 332. Although I was born in Cairo, Egypt, I've lived most of my life here in Seattle. When I'm not coding, I love watching F1 and anything that has to do with motorsport. I also love playing sports, mainly squash, soccer, and padel. Looking forward to a great autumn quarter!
+Hello! I'm Mohamed, a senior at the Allen School. This is my 6th time TAing 332 and I'm super excited for my final year here. In my free time, I like playing sports and watching F1.
 
-## Thien Tran
+## Chandni Rajasekaran
 
-Hey, everyone! I’m Thien (she/her), and this is my fourth quarter as a TA. Feel free to drop by my office hours :) Here are a few things I’ve been loving lately: biking, yoga, philosophy, climbing, running, traveling, petting dogs, and getting to be a TA again!
+Hi! My name is Chandni and I am currently a BS/MS student majoring in computer science. I am super excited to TA this course for the sixth time, since I've come to see that everything I've learned in this class has been very applicable to internship preparation. Outside of school, I really enjoy drawing and baking. As a shameless plug, I have an instagram account where I post my photorealistic color pencil drawings (username: @chandnidraws). I can't wait to meet everyone this quarter!
 
-## Youssef Talib
+## Hana Smahi
+Hi everyone! I’m Hana, and I’m currently a second-year student majoring in Computer Science. I’m excited to be one of your 332 TAs this quarter, and I look forward to meeting all of you! I love exploring the outdoors of the PNW through hiking, cycling, paddle boarding, and nature photography. I’m also an avid swimmer, reader, and a huge fan of comedy tv-shows (I’ve watched the office 8 times – and I’m itching to watch it again, don’t judge me). Feel free to reach out if you have any related questions or just want to chat!
 
-Welcome to CSE 332 everyone! My name is Youssef. I am a BS/MS student and this is my fourth time TAing this class. This class was super cool and useful for me so I hope all of you learn a lot from it! Feel free to chat about anything with me :).
+## Amanda Yuan
 
-## Hitesh Boinpally
+Hi, I'm Amanda. I'm a BSMS student and this will be my eigth time TA-ing for CSE 332. I like salted caramel and large hair claws. Best of luck this quarter!
 
-Hi, I'm Hitesh and I'm a BSMS student from Maple Valley (an hour south of UW) TAing CSE 332 for the first time! Some things I like to do outside of school are biking, watching football, and trying new foods. I’m super stoked to get to know you all this quarter!
+## Sarah Chen
 
-## Yijia (Jazlyn) Zhao
+Hi everyone! My name is Sarah, and I’m a third-year majoring in Computer Science. This is my second time TA-ing for CSE 332. I’m from Bellevue, WA, but I grew up in Silicon Valley. Outside of school, I love listening to music (especially 90’s alternative/rock – I’m a huge fan of RHCP, Nirvana, Pearl Jam, Radiohead, Green Day, etc.), playing my guitars, teaching karate, hanging out with my dog (Leo), and reading new books.  So excited to meet all of you! :)
 
-Yijia(Jazlyn) Zhao: Hey everyone! I'm Yijia or you can call me Jazlyn. I'm fine with both of these two names. I’m a junior majoring in computer science. It’s my first time TAing CSE332. I love baking and playing board game in my free time. I’m looking forward to working and having fun with you all! : )
+## Yafqa Khan
 
-## Xunmei Liu
-
-Hi, I'm Xunmei Liu and you can also call me May : )) I'm a junior student and this is my first time TAing this class. I grew up in ShenZhen, China. I like dancing, playing basketball and soccer, drawing, and playing piano. Hope that we have a good time this quarter!!!
-
-
+Hello! My name is Yafqa, and I’m excited to be your TA this term. I’m passionate about technology and enjoy exploring various fields within computer science. In my free time, I like reading, coding, and hiking. If you ever have any questions about the course or just want to chat about tech, books, or outdoor adventures, feel free to reach out! Looking forward to getting to know everyone!
