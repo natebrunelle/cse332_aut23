@@ -24,8 +24,8 @@ This assignment has two main parts. The first involves implementing some data st
 <!-- For this exercise, you will need:
 
 - [Starter Code](/files/exercises/ex0.zip) - which contains various classes that will be needed for this assignment.
-- [Specification](https://docs.google.com/document/d/1Tq_at8VAZOueWtMm6UWtNZmAhoKapmX7Woqp1xfIwiQ/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
-- [Benchmarking Worksheet](https://docs.google.com/document/d/1xKSboyCwlGAl4boIP_5TLEb1zCRIWoxvRJdCHFvga8I/edit?usp=sharing) - which you will copy and complete for the benchmarking portion of the assignment.
+- [Specification](https://docs.google.com/document/d/1XPi2Dz6aA4RoyY7O6Nb_NgQugoh-jxo1LU_S_-81gQc/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
+- [Benchmarking Worksheet](https://docs.google.com/document/d/1pE0milOwzq8jrCcaxSedM7jRHBMyynQ9WapZuUsBOe0/edit?usp=sharing) - which you will copy and complete for the benchmarking portion of the assignment.
 
 -->
 
