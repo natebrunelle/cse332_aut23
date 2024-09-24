@@ -21,13 +21,11 @@ The objectives of this exercise are to:
 
 This assignment has two main parts. The first involves implementing some data structures. The second involves analyzing the running times of your implementations using benchmarking. Each part will have a separate Gradescope submission, which will combine together to count as your exercise 0 grade.
 
-<!-- For this exercise, you will need:
+For this exercise, you will need:
 
 - [Starter Code](/files/exercises/ex0.zip) - which contains various classes that will be needed for this assignment.
 - [Specification](https://docs.google.com/document/d/1XPi2Dz6aA4RoyY7O6Nb_NgQugoh-jxo1LU_S_-81gQc/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
 - [Benchmarking Worksheet](https://docs.google.com/document/d/1pE0milOwzq8jrCcaxSedM7jRHBMyynQ9WapZuUsBOe0/edit?usp=sharing) - which you will copy and complete for the benchmarking portion of the assignment.
-
--->
 
 ## Exercise 1
 
