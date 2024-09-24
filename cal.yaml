@@ -12,9 +12,9 @@ meta:
   lecture exam: true
   home: https://www.cs.virginia.edu/~njb2b/cs3100/s23/
   final:
-          start: 2024-08-16 11:59:00
-          duration: 60
-          room: ''
+    start: 2024-12-12 08:30:00
+    duration: 110
+    room: NA
 
 sections:
   Lecture:
