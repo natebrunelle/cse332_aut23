@@ -18,7 +18,7 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Profiles](staff.html) |
 | Location | Allen Center (CSE) 434 | [See Calendar](oh.html) |
-| Office Hours | Mondays 9am-10am, Tuesdays 12pm-2pm, MWF after class | [See Calendar](oh.html) |
+| Office Hours | Mon 9am-10am, Tue 12pm-2pm, MWF after class | [See Calendar](oh.html) |
 | Phone |  | (none) |
 | Email | <a href="mailto:brunelle@cs.washington.edu?subject=CSE332">brunelle@cs.washington.edu</a> | use Ed Discussion Board |
 
