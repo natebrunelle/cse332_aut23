@@ -59,11 +59,10 @@ The objectives of this exercise are to:
 
 This is a programming exercise which you will submit to gradescope. There is no written component to this exercise, your code is your only submission. 
 
-<!--For this exercise, you will need:
+For this exercise, you will need:
 
 - [Starter Code](/files/exercises/ex3.zip) - which contains various classes that will be needed for this assignment.
-- [Specification](https://docs.google.com/document/d/1VdB7eXj89m6n0VUerDlfb39tAphi16aEzbhrQQMx4g0/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
--->
+- [Specification](https://docs.google.com/document/d/1SbbdYO2JoFF0dbpY7hD6ufnpCCRUhN6I/edit?usp=sharing&ouid=100283603951565118803&rtpof=true&sd=true) - which contains all instructions for what to do for this assignment.
 
 ## Exercise 4
 
