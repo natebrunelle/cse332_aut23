@@ -44,6 +44,8 @@
 2024-10-09:
     slides (pptx): files/slides/lecture7_heaps.pptx
     slides (pdf): files/slides/lecture7_heaps.pdf
+    slides (ink): files/slides/lecture7_heaps_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98f07bc9-90e5-4eeb-83e9-b1f60132214c
 
 2024-10-10:
     slides: https://docs.google.com/presentation/d/1LbYaWbJKbNj0uMVvW22yMeHvw5KwXDXOnl25aoXAGdk/edit?usp=sharing
@@ -54,10 +56,9 @@
     heap handout: https://docs.google.com/document/d/1jqN8Xj-ktaVm5KoiCOgloW9qTf45LzE-4B2MCo8ffSc/edit?usp=sharing
     heap solution: https://docs.google.com/document/d/1drSjFG08PHiYd3rNPNo9BJx1v0zBUnyre2VgB3RZ2EE/edit?usp=sharing
     
-2024-07-05:
-    slides (pptx): files/slides/lecture8_avl2.pptx
-    slides (pdf): files/slides/lecture8_avl2.pdf
-    recording: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=99ba6401-32ea-428f-8d6f-b190015589bd
+2024-10-11:
+    slides (pptx): files/slides/lecture8_heaps_dicts.pptx
+    slides (pdf): files/slides/lecture8_heaps_dicts.pdf
     
 2024-07-08:
     slides (pptx): files/slides/lecture9_hashtables.pptx
