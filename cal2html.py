@@ -52,6 +52,7 @@ def raw2cal(data, links=None):
         ans = []
         hasClass = True
         
+        
         # handle metadata
         if 'final' in data['meta'] and d == data['meta']['final']['start'].date() and d > data['Special Dates']['Courses end']:
             final = data['meta']['final']
