@@ -280,6 +280,7 @@ Overall, here is how I would recommend that you use these sample exams to prepar
 
 Past Exams:
 
+- [CSE 332 23au Midterm](files/cse332-midterm-24su.pdf), [Solution](files/cse332-midterm-24su-soln.pdf)
 - [CSE 332 23au Midterm](files/cse332-midterm-23au.pdf), [Solution](files/cse332-midterm-23au-soln.pdf)
 - [CSE 332 23sp Midterm](files/cse332-midterm-23sp.pdf), [Solution](files/cse332-midterm-23sp-soln.pdf)
 - [CSE 332 23wi Midterm](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-23wi.pdf), [Solution](https://courses.cs.washington.edu/courses/cse332/23sp/exams/oldExams/cse332-midterm-23wi-soln.pdf)
