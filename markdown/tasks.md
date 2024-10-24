@@ -264,6 +264,8 @@ The exam will cover all material from the beginning of the quarter up through AV
 <!--I have drafted a practice exam that is representative of this quarter's midterm: [24su practice midterm](files/cse332-midterm-24su-sample.pdf) and [Solution](files/cse332-midterm-24su-sample-soln.pdf)
 -->
 
+In case you're the type who likes to read the instructions before walking in on exam day, here is the actual [exam cover page](files/cse332_midterm_au24_cover.pdf)!
+
 Below I have several quarters' midterm exams. Be advised that the question style, length, difficulty, and content may differ among quarters. Most notably, prior quarters covered two data structures that have been omitted from the course this quarter - Tries and B-Trees. In lieue of those, the autumn 2024 exam will cover hash tables and hashing. Questions relating to hashing can be found within the sample final exams below.
 
 ~~In addition, approximately 1 week before the exam I will post one custom-created practice exam that accounts for the content differences compared to previous quarters. This exam will be constructed by selecting questions from among the past midterms and finals already provided on this page.~~
