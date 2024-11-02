@@ -116,11 +116,10 @@ The objectives of this exercise are:
 
 This is a programming exercise which you will submit to gradescope. There is no written component to this exercise, your code is your only submission. 
 
-<!-- For this exercise, you will need:
+For this exercise, you will need:
 
 - [Starter Code](/files/exercises/ex7.zip) - which contains various classes and testing files that will be needed for this assignment.
-- [Specification](https://docs.google.com/document/d/1RtZf5KwGMLQ0MUfTFvBcUHc2AGSxmevPyF0UgrxYZsg/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
--->
+- [Specification](https://docs.google.com/document/d/1wHwMQourvr6EJmAGESCk_nCdth_Y_lyRZKijswEndjc/edit?usp=sharing) - which contains all instructions for what to do for this assignment.
 
 ## Exercise 8
 
