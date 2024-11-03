@@ -158,11 +158,9 @@
     handout: https://docs.google.com/document/d/14XyeO-jweELfSrOHajfltRmVkxDw6LB9TE5Ie5X_BbI/edit?usp=sharing
     solution: https://docs.google.com/document/d/1g4c4KUnKsmrUC5jC0HQyZLbLs5u6E2F22adxS9_yiF4/edit?usp=sharing
 
-2024-08-05:
-    slides (pptx): files/slides/lecture20_analysis.pptx
+2024-11-13:
+    slides (pptx): files/slides/lecture20_forkjoin.pptx
     slides (pdf): files/slides/lecture20_analysis.pdf
-    slides (ink): files/slides/lecture20_analysis_ink.pdf
-    recording: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5ce0cba0-488f-4216-964a-b1900155c13f
     
 2024-08-07:
     slides (pptx): files/slides/lecture21_raceconditions_deadlock.pptx
