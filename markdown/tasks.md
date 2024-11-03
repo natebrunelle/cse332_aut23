@@ -209,8 +209,8 @@ For this resubmission you may resubmit any assignment which covered content afte
 The Midterm Exam will be held on Friday November 1 during our normal lecture session.
 
 
-<!-- Here are [sample solutions](files/cse332_midterm_su24_soln.pdf) for the midterm.
--->
+Here are [sample solutions](files/cse332_midterm_au24_soln.pdf) for the midterm.
+
 
 ### Policies
 
