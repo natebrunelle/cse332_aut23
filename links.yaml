@@ -160,7 +160,7 @@
 
 2024-11-13:
     slides (pptx): files/slides/lecture20_forkjoin.pptx
-    slides (pdf): files/slides/lecture20_analysis.pdf
+    slides (pdf): files/slides/lecture20_forkjoin.pdf
     
 2024-08-07:
     slides (pptx): files/slides/lecture21_raceconditions_deadlock.pptx
