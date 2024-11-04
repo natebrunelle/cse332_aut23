@@ -142,11 +142,10 @@ The objectives of thie exercise are:
 
 This is a programming exercise which you will submit to gradescope. There is no written component to this exercise, your code is your only submission. 
 
-<!--For this exercise, you will need:
+For this exercise, you will need:
 
-- [Starter Code](/files/exercises/ex10.zip) - which contains various classes and testing files that will be needed for this assignment.
-- [Specification](https://docs.google.com/document/d/11iH8ehwAn1-AWPM945rhzqFvhEXEa-Yh1XEJsuJnLlk/edit?usp=sharing) - which contains all instructions for what to do for this assignment
--->
+- [Starter Code](/files/exercises/ex9.zip) - which contains various classes and testing files that will be needed for this assignment.
+- [Specification](https://docs.google.com/document/d/1eXkr40yGh7NaQxVTEJRIw_OFW8MKOS_k7X5I86BnuMo/edit?usp=sharing) - which contains all instructions for what to do for this assignment
 
 ## Exercise 10 
 
