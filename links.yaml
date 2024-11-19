@@ -204,10 +204,10 @@
     slides(330): files/slides/lecture23_raceconditions_deadlock_ink330.pdf
     Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
 
-2024-08-15:
-    slides: https://docs.google.com/presentation/d/1AxcgYdkEtkesI0TZYaSdB4BXMFZV8Fb1y8qUYBSZytY/edit?usp=sharing
-    handout: https://docs.google.com/document/d/1qyH0MEjoede-YBQwv5tPTvOPmStS6Pp21s3-ZF9ygLk/edit?usp=sharing
-    solution: https://docs.google.com/document/d/1Xf48EYJ7mkm6Am5FXyrO7sR_yg-2VgR2rbOUIvFAU4c/edit?usp=sharing
+2024-11-21:
+    slides: https://docs.google.com/presentation/d/1_LPzg6QyvR_wRXIDcTb9wCSwmjTghMp4fgmpklhLsy0/edit?usp=sharing
+    handout: https://docs.google.com/document/d/1qMpXVuWAb0iUhrJBZ_posj1_3gfeNFQ475bJT7QdeQI/edit?usp=sharing
+    solution: https://docs.google.com/document/d/1_--EcRxjP8Chxi9vTxUiF3khMiBhgLiN6tPJo6HuRWI/edit?usp=sharing
 
 2024-03-04:
     slides(pptx): files/slides/lecture24_topsort_msts.pptx
