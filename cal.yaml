@@ -178,28 +178,28 @@ assignments:
         
     EX8 Shortest Paths:
         group: programming
-        due: 2024-11-20 23:59:00
+        due: 2024-11-22 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
     EX11 MSTs:
         group: programming
-        due: 2024-12-04 23:59:00
+        due: 2024-12-06 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
     EX9 ForkJoin: 
         group: programming
-        due: 2024-11-22 23:59:00
+        due: 2024-11-25 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
     EX10 Concurrency:
         group: programming
-        due: 2024-11-27 23:59:00
+        due: 2024-12-02 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
