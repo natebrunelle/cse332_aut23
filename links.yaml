@@ -190,11 +190,9 @@
     slides(pdf): files/slides/lecture24_raceconditions2.pdf
     slides(ink): files/slides/lecture24_raceconditions2_ink.pdf
 
-2024-02-28:
-    slides(pptx): files/slides/lecture22_concurrency.pptx
-    slides(pdf): files/slides/lecture22_concurrency.pdf
-    slides(1230): files/slides/lecture22_concurrency_ink1230.pdf
-    slides(330): files/slides/lecture22_concurrency_ink330.pdf
+2024-11-25:
+    slides(pptx): files/slides/lecture25_deadlock_mst.pptx
+    slides(pdf): files/slides/lecture25_deadlock_mst.pdf
     Grossman (6-7.1): files/sophomoricParallelismAndConcurrency.pdf
 
 2024-03-01:
@@ -208,6 +206,7 @@
     slides: https://docs.google.com/presentation/d/1_LPzg6QyvR_wRXIDcTb9wCSwmjTghMp4fgmpklhLsy0/edit?usp=sharing
     handout: https://docs.google.com/document/d/1qMpXVuWAb0iUhrJBZ_posj1_3gfeNFQ475bJT7QdeQI/edit?usp=sharing
     solution: https://docs.google.com/document/d/1_--EcRxjP8Chxi9vTxUiF3khMiBhgLiN6tPJo6HuRWI/edit?usp=sharing
+    video: https://drive.google.com/file/d/1WW6Gn2KFE-uisLfpXlcx7D7_aqp5Ce9x/view?usp=sharing
 
 2024-03-04:
     slides(pptx): files/slides/lecture24_topsort_msts.pptx
