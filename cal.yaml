@@ -57,10 +57,10 @@ lectures:
     - Parallelism 1 (Fork-Join)
     - Parallelism 2 (Parallel Prefix)
     - Parallel Analysis & Amdahl's Law
+    - Synchronization (Locks)
     - Synchronization (Race Conditions)
-    - Synchronization (Deadlock)
+    - Synchronization (Deadlock & Wisdom)
     - Minimum Spanning Trees
-    - Disjoint Sets
     - Complexity Classes
     - P, NP, NP-Complete
     - Finale

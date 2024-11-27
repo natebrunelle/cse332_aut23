@@ -184,23 +184,25 @@
 2024-11-20:
     slides(pptx): files/slides/lecture23_raceconditions.pptx
     slides(pdf): files/slides/lecture23_raceconditions.pdf
+    slides(ink): files/slides/lecture24_raceconditions2_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=655cf236-3fbe-4143-985f-b1f601323715 
 
 2024-11-22:
     slides(pptx): files/slides/lecture24_raceconditions2.pptx
     slides(pdf): files/slides/lecture24_raceconditions2.pdf
     slides(ink): files/slides/lecture24_raceconditions2_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=894e156b-04d5-40e1-ab02-b1f60132389b
 
 2024-11-25:
     slides(pptx): files/slides/lecture25_deadlock_mst.pptx
     slides(pdf): files/slides/lecture25_deadlock_mst.pdf
+    slides(ink): files/slides/lecture25_deadlock_mst_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=294a0c86-6151-4c61-b53c-b1f6013239fd
     Grossman (6-7.1): files/sophomoricParallelismAndConcurrency.pdf
 
 2024-03-01:
-    slides(pptx): files/slides/lecture23_raceconditions_deadlock.pptx
-    slides(pdf): files/slides/lecture23_raceconditions_deadlock.pdf
-    slides(1230): files/slides/lecture23_raceconditions_deadlock_ink1230.pdf
-    slides(330): files/slides/lecture23_raceconditions_deadlock_ink330.pdf
-    Grossman (8,9): files/sophomoricParallelismAndConcurrency.pdf
+    slides(pptx): files/slides/lecture26_mst.pptx
+    slides(pdf): files/slides/lecture26_mst.pdf
 
 2024-11-21:
     slides: https://docs.google.com/presentation/d/1_LPzg6QyvR_wRXIDcTb9wCSwmjTghMp4fgmpklhLsy0/edit?usp=sharing
