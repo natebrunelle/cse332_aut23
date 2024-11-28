@@ -73,9 +73,9 @@ labs:
     - S5 Hashing
     - S6 Sorting
     - S7 Graphs
-    - S6 ForkJoin 
-    - S7 Concurrency & Two-Pass parallel
-    - S8 P/NP & Final Review
+    - S8 ForkJoin 
+    - S9 Concurrency & Two-Pass parallel
+    - S10 P/NP & Final Review
 
 reading:
     Intro; ADTs; Stacks & Queues:
