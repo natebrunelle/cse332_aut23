@@ -203,6 +203,8 @@
 2024-11-27:
     slides(pptx): files/slides/lecture26_mst.pptx
     slides(pdf): files/slides/lecture26_mst.pdf
+    slides(ink): files/slides/lecture26_mst_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b398c502-3012-4631-8fc6-b1f601323b35 
 
 2024-11-21:
     slides: https://docs.google.com/presentation/d/1_LPzg6QyvR_wRXIDcTb9wCSwmjTghMp4fgmpklhLsy0/edit?usp=sharing
@@ -210,11 +212,9 @@
     solution: https://docs.google.com/document/d/1_--EcRxjP8Chxi9vTxUiF3khMiBhgLiN6tPJo6HuRWI/edit?usp=sharing
     video: https://drive.google.com/file/d/1WW6Gn2KFE-uisLfpXlcx7D7_aqp5Ce9x/view?usp=sharing
 
-2024-03-04:
-    slides(pptx): files/slides/lecture24_topsort_msts.pptx
-    slides(pdf): files/slides/lecture24_topsort_msts.pdf
-    slides(1230): files/slides/lecture24_topsort_msts_ink1230.pdf
-    slides(330): files/slides/lecture24_topsort_msts_ink330.pdf
+2024-12-02:
+    slides(pptx): files/slides/lecture27_complexity.pptx
+    slides(pdf): files/slides/lecture27_complexity.pdf
 
 2024-03-06:
     slides(pptx): files/slides/lecture25_msts_pnp.pptx
