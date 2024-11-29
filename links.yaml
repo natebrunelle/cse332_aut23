@@ -215,12 +215,13 @@
 2024-12-02:
     slides(pptx): files/slides/lecture27_complexity.pptx
     slides(pdf): files/slides/lecture27_complexity.pdf
+    slides(ink): files/slides/lecture27_complexity_ink.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=29e3c758-bf56-4613-9668-b1f601323c6d 
 
-2024-03-06:
-    slides(pptx): files/slides/lecture25_msts_pnp.pptx
-    slides(pdf): files/slides/lecture25_msts_pnp.pdf
-    slides(1230): files/slides/lecture25_msts_pnp_ink1230.pdf
-    slides(330): files/slides/lecture25_msts_pnp_ink330.pdf
+2024-12-04:
+    slides(pptx): files/slides/chandni_lecture28_np_complete.pptx
+    slides(pdf): files/slides/chandni_lecture28_np_complete.pdf
+    video: https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6197c187-8761-4316-af6a-b1f601323dc2
 
 2024-12-05:
     slides: https://docs.google.com/presentation/d/1i701hBX1AhNKyKjYC_gY1DK_3Mu5b9FAIU0-YdQ_sjs/edit?usp=sharing
@@ -228,7 +229,5 @@
     solution: https://docs.google.com/document/d/1GMFHwEm5_RBQjDEwlJ3aVefBKHTbqWIGnHrA696iDZo/edit?usp=sharing
 
 2024-03-08:
-    slides(pptx): files/slides/lecture26_pnp.pptx
-    slides(pdf): files/slides/lecture26_pnp.pdf
-    slides(1230): files/slides/lecture26_pnp_ink1230.pdf
-    slides(330): files/slides/lecture26_pnp_ink330.pdf
+    slides(pptx): files/slides/fiveworlds.pptx
+    slides(pdf): files/slides/fivewords.pdf
