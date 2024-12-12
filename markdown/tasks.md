@@ -299,6 +299,8 @@ The Final Exam will be held at 8:30am on December 12 in CSE2 room G20 (our regul
 
 ### Policies
 
+In case you're the type who likes to read the instructions before walking in on exam day, here is the actual [exam cover page](files/final_cover.pdf)!
+
 1. Closed book, closed notes except for a 1-page 2-sided reference sheet of your own creation.
 1. No calculators, cell phones, or other electronic devices allowed.
 1. No writing after time is called, make sure you put your name on your paper first.
