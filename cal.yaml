@@ -1,19 +1,20 @@
 Special Dates:
-  Courses begin: 2024-06-17
-  Courses end: 2024-08-17
-  Juneteenth Holiday: 2024-06-19
-  Independance Day: 2024-07-04
-  Midterm Exam: 2024-07-19
-  Final Exam: 2024-08-16
+  Courses begin: 2024-09-25
+  Courses end: 2024-12-06
+  Veterans Day: 2024-11-11
+  Thanksgiving Day: 2024-11-28
+  Native American Heritage Day: 2024-11-29
+  Midterm Exam: 2024-11-01
+  Final Exam: 2024-12-12
 meta:
   timezone: America/New_York
   name: Algorithms
   lecture exam: true
   home: https://www.cs.virginia.edu/~njb2b/cs3100/s23/
   final:
-          start: 2024-08-16 11:59:00
-          duration: 60
-          room: ''
+    start: 2024-12-12 08:30:00
+    duration: 110
+    room: NA
 
 sections:
   Lecture:
@@ -37,38 +38,44 @@ lectures:
     - Intro; ADTs; Stacks & Queues
     - Algorithm Analysis 1
     - Algorithm Analysis 2
+    - Algorithm Analysis 3
     - Recurrences
     - Priority Queues 1 (ADT)
     - Priority Queues 2 (Binary Heap)
     - Dictionaries (ADT & Binary Search Trees)
     - Dictionaries (AVL Trees 1)
     - Dictionaries (AVL Trees 2)
-    - Dictionaries (Hashing )
+    - Dictionaries (Hashing)
     - Dictionaries (Hashing 2)
+    - Dictionaries (Hashing 3)
     - Sorting 1
     - Sorting 2
+    - Decision Trees
     - Graphs 1 (Intro to Graphs)
     - Graphs 2 (Traversals)
-    - Graphs 2 (Shortest path)
-    - Graphs 4 (MST & Topological Sort)
+    - Graphs 3 (Shortest path)
     - Parallelism 1 (Fork-Join)
     - Parallelism 2 (Parallel Prefix)
-    - Parallel Analysis & Concurrency
+    - Parallel Analysis & Amdahl's Law
+    - Synchronization (Locks)
     - Synchronization (Race Conditions)
-    - Synchronization (Deadlock)
-    - P NP NP-Complete
+    - Synchronization (Deadlock & Wisdom)
+    - Minimum Spanning Trees
+    - Complexity Classes
+    - P, NP, NP-Complete
     - Finale
-    - Exam
 
 labs:
     - S1 Intros, Java Generics
-    - S2 Recurrences
-    - S3 AVL Trees
-    - S4 Hashing & Review
-    - S5 Graphs
-    - S6 Parallel Programs 
-    - S7 Concurrency & Two-Pass parallel
-    - S8 P/NP & Final Review
+    - S2 Asymptotics
+    - S3 Recurrences
+    - S4 AVL Trees
+    - S5 Hashing
+    - S6 Sorting
+    - S7 Graphs
+    - S8 ForkJoin 
+    - S9 Concurrency & Two-Pass parallel
+    - S10 P/NP & Final Review
 
 reading:
     Intro; ADTs; Stacks & Queues:
@@ -115,91 +122,91 @@ assignments:
             
     EX0 Generics:
         group: programming
-        due: 2024-06-26 23:59:00
+        due: 2024-10-02 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
     EX1 Running Time:
         group: programming
-        due: 2024-07-03 23:59:00
+        due: 2024-10-09 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
        
     EX2 Recurrences:
         group: programming
-        due: 2024-07-03 23:59:00
+        due: 2024-10-16 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
     EX3 Heaps:
         group: programming
-        due: 2024-07-10 23:59:00
+        due: 2024-10-18 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
     EX4 AVL:
         group: programming
-        due: 2024-07-17 23:59:00
+        due: 2024-10-23 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
     EX5 Hashing:
         group: programming
-        due: 2024-07-26 23:59:00
+        due: 2024-10-30 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
     EX6 Sorting:
         group: programming
-        due: 2024-07-26 23:59:00
+        due: 2024-11-06 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    EX7 Graphs 1:
+    EX7 Graph Traversals:
         group: programming
-        due: 2024-07-31 23:59:00
+        due: 2024-11-13 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
         
-    EX8 Graphs 2:
+    EX8 Shortest Paths:
         group: programming
-        due: 2024-07-31 23:59:00
+        due: 2024-11-22 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
     
-    EX9 Graphs 3:
+    EX11 MSTs:
         group: programming
-        due: 2024-08-07 23:59:00
+        due: 2024-12-04 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    EX10 ForkJoin: 
+    EX9 ForkJoin: 
         group: programming
-        due: 2024-08-09 23:59:00
+        due: 2024-11-25 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
-    EX11 Concurrency:
+    EX10 Concurrency:
         group: programming
-        due: 2024-08-14 23:59:00
+        due: 2024-12-02 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'
 
     EX12 P and NP:
         group: programming
-        due: 2024-08-16 23:59:00
+        due: 2024-12-06 23:59:00
         writeup: 'https://www.cs.virginia.edu/~njb2b/cs4102/s23/'
         weight: 1
         files: 'something.java'

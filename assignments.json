@@ -2,7 +2,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-06-26 23:59"
+  ,"due":"2024-10-02 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -11,7 +11,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-03 23:59"
+  ,"due":"2024-10-09 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -20,7 +20,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-03 23:59"
+  ,"due":"2024-10-16 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -29,7 +29,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-10 23:59"
+  ,"due":"2024-10-18 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -38,7 +38,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-17 23:59"
+  ,"due":"2024-10-23 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -47,7 +47,7 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-26 23:59"
+  ,"due":"2024-10-30 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -56,58 +56,52 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-26 23:59"
+  ,"due":"2024-11-06 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
   }
-,"Resub1":
+,"EX7 Graph Traversals":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-29 23:59"
-  }
-,"EX7 Graphs 1":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2024-07-31 23:59"
+  ,"due":"2024-11-13 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX8 Graphs 2":
+,"EX8 Shortest Paths":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-07-31 23:59"
+  ,"due":"2024-11-22 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX9 Graphs 3":
+,"EX9 ForkJoin":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-08-07 23:59"
+  ,"due":"2024-11-25 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX10 ForkJoin":
+,"EX10 Concurrency":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-08-09 23:59"
+  ,"due":"2024-12-02 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
   }
-,"EX11 Concurrency":
+,"EX11 MSTs":
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-08-14 23:59"
+  ,"due":"2024-12-04 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
@@ -116,15 +110,9 @@
   {"portion":"30"
   ,"drop":2
   ,"group":"programming"
-  ,"due":"2024-08-16 23:59"
+  ,"due":"2024-12-06 23:59"
   ,"writeup":"https://www.cs.virginia.edu/~njb2b/cs4102/s23/"
   ,"weight":1
   ,"files":"something.java"
-  }
-,"Resub2":
-  {"portion":"30"
-  ,"drop":2
-  ,"group":"programming"
-  ,"due":"2024-08-17 23:59"
   }
 }

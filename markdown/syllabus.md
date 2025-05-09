@@ -6,7 +6,7 @@ title: Syllabus
 
 ## Meetings
 
-In Person lectures will be held in [Gowen Hall](https://www.washington.edu/maps/#!/GWN) (i.e. GWN) room 301 at 9:40pm-10:40am. 
+In Person lectures will be held in [CSE2 (Gates Hall)](https://www.washington.edu/maps/#!/CSE2) room G20 at 12:30pm-1:20pm. 
 
 Lecture attendance is optional, but strongly encouraged. In the event you are unable to attend a lecture, recordings of lectures are automatically posted to Canvas under the Panopto tool.
 
@@ -18,7 +18,7 @@ Lecture attendance is optional, but strongly encouraged. In the event you are un
 |--------|------------|-----|
 | Name | Nathan Brunelle | [Profiles](staff.html) |
 | Location | Allen Center (CSE) 434 | [See Calendar](oh.html) |
-| Office Hours | TBD | [See Calendar](oh.html) |
+| Office Hours | Mon 9am-10am, Tue 12pm-2pm, MWF after class | [See Calendar](oh.html) |
 | Phone |  | (none) |
 | Email | <a href="mailto:brunelle@cs.washington.edu?subject=CSE332">brunelle@cs.washington.edu</a> | use Ed Discussion Board |
 
@@ -52,7 +52,7 @@ Although we believe nearly all students will benefit from attending all classes,
 All assignments will be posted and submitted either in class (for exams) or on Gradescope. All grading will be conducted on Gradescope. You will be asked to perform three kinds of evaluations:
 
 - **Exercises**: These are intended to help you to gain experience and familiarity with course concepts by applying them to novel scenarios beyond those presented in lecture and section. These will sometimes be written assignments, but most will be programming tasks (perhaps paired with written activities).  
-- **Resubmissions**: Whereas some courses allow for a small number of assignments to be dropped, in this course all content is required by at least one course listing this one as a prerequisite. For this reason we feel the course should not provide a way for a student to "skip" the experience with a topic. In interest of providing flexibility, you will be able to resubmit 2 assignments - one from the assignments due before the midterm, one from after the midterm. The resubmitted assignment will be graded from scratch, with the new grade replacing the original.
+<!--- **Resubmissions**: Whereas some courses allow for a small number of assignments to be dropped, in this course all content is required by at least one course listing this one as a prerequisite. For this reason we feel the course should not provide a way for a student to "skip" the experience with a topic. In interest of providing flexibility, you will be able to resubmit 2 assignments - one from the assignments due before the midterm, one from after the midterm. The resubmitted assignment will be graded from scratch, with the new grade replacing the original. -->
 - **Exams**: These are timed and proctored in-class and close-resource exams.These are intended to evaluate the quality of your learning of the most important topics in the course, and to motivate you to study, review, and retroactively reflect upon all that you've learned. Lists of topics and links to past exams will be provided in advance of each exam.
 
 # Grading
@@ -61,8 +61,10 @@ We will consider the grade assigned by the following weighted average (of percen
 
 Task                        Weight  Comments
 -------------------------  -------- ----------------------------------------------
-Exercises                   65%     There will be 13 total, each counting for 5%
-Exams                       35%     There will be 2 total, a midterm and a (non-cumulative) final exam. Each counts for 17.5%
+Exercises                   60%     There will be 13 total, each counting for 5%, with the lowest exercise (other than EX12[^EX12]) grade being dropped.
+Exams                       40%     There will be 2 total, a midterm (counting for 15%) and a cumulative final exam (counting for 25%).
+
+[^EX12]: The P vs. NP material will not be included on the final exam, meaning that the ONLY place were that material is assessed is on EX12. For this reason, EX12 is not eligible to be dropped.
 
 This numerical calculation is to be considered a **guideline** on your score in the course. Final grades may take other factors into account so that your grade is the most accurate reflection of your understanding of course materials.
 
@@ -80,7 +82,7 @@ If your grade is           Then your course GPA will be
 
 To facilitate timely feedback, exercises will not be accepted late. That being said, we are happy to consider any request for a deadline extension. These deadline extensions are intended to either grant submission flexibility for students who experience hardship during the open window of the assignment, or to grant a small amount of extra time to students who began the assignment in a timely manner, have made substantial progress before the deadline, but would have their grade be a more accurate reflection of their understanding if a minimal amount of extra time was allotted.
 
-To submit an extension request, fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSfVpfdAW2-lIvxsO7qrq9TN05MjPU6W4y-kGOr2vW0rdcX_-Q/viewform?usp=sf_link), providing either:
+To submit an extension request, fill out [this google form](https://docs.google.com/forms/d/e/1FAIpQLSchLpw3xM6t0xlhMLlaJw3XoEcMTj_yceR4mZh6swH4KTk1oA/viewform?usp=sf_link), providing either:
 
 1) The hardship experienced (a high-level description like "ER visit" is fine, details are unnecessary), as well as the approximate amount of time lost due to the hardship and a suggested replacement deadline.
 1) A description of when you started the assignment, how much progress you've made, where you've gotten stuck, and a suggested replacement deadline.
@@ -89,7 +91,7 @@ To ensure that we can respond to these requests before the deadline, please subm
 
 ## Regrades
 
-We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on assignments within either one week of your grade being returned or by Monday August 19, whichever date is sooner.
+We acknowledge that professors and TAs are people (glad to get that confession off of my chest!), and people make mistakes. For this reason, you are able to request regrades on exercises and the midterm within either one week of your grade being returned or by Thursday December 12, whichever date is sooner. You will only have 48 hours to submit regrade requests for the final exam.
 
 Please only submit a regrade request if you believe the rubric was misapplied to your submission or if there was a keying error for the task. In the case of a misapplication of the rubric, identify specifically what in your submission demonstrates the misapplication and suggest how you believe the rubric should be correctly applied. In the case of a keying error, state and justify why you believe your answer should be considered correct. Disagreement with the existance or weighting of a rubric item is not considered a valid reason for a regrade request.
 

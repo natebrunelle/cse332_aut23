@@ -4,10 +4,10 @@ title: Home
 
 Handy links:
 
-- [Gradescope](https://www.gradescope.com/courses/797871)
-- [Ed Board](https://edstem.org/us/courses/60022)
-- [Lecture Recordings](https://canvas.uw.edu/courses/1729273/external_tools/21130)
-- [Extension Request](https://docs.google.com/forms/d/e/1FAIpQLSfVpfdAW2-lIvxsO7qrq9TN05MjPU6W4y-kGOr2vW0rdcX_-Q/viewform?usp=sf_link)
+- [Gradescope](https://www.gradescope.com/courses/878334)
+- [Ed Board](https://edstem.org/us/courses/67455)
+- [Lecture Recordings](https://canvas.uw.edu/courses/1746553/external_tools/21130)
+- [Extension Request](https://forms.gle/tpvkhcMxccruXDWe6) (requires login with your UW netid)
 
 # Course Description
 
@@ -78,10 +78,9 @@ In particular, we assume knowledge of:
 Platform                    Purpose
 -------------------------   ----------------------------------------------
 This Website                Central repository of course information and content including: syllabus, schedule, file hosting, readings, assignment writeups, etc.
-Canvas                      Linking to all of the other tools, lecture recordings
+Canvas                      Linking to all of the other tools, lecture recordings, roster maintenance
 Ed Message Board            Course content and policy questions
 Gradescope                  Homework submission and grading
-Gitlab                      Project releases and submission on Gradescope
 
 
 # What to expect in this course

@@ -1,5 +1,5 @@
 ---
-title: Summer 2024 Schedule
+title: Autumn 2024 Schedule
 ...
 
 
